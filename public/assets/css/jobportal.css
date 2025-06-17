@@ -1,0 +1,136 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(120deg, #c3dafe, #e0f2fe);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+
+  .job-card {
+    background: rgba(255, 255, 255, 0.75);
+    backdrop-filter: blur(12px);
+    border-radius: 20px;
+    padding: 28px;
+    max-width: 400px;
+    width: 100%;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+    animation: slideUp 0.7s ease;
+    transition: transform 0.3s ease;
+  }
+
+  .job-card:hover {
+    transform: translateY(-6px);
+  }
+
+  .job-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px;
+  }
+
+  .job-title {
+    font-size: 22px;
+    font-weight: 700;
+    color: #1e293b;
+  }
+
+  .badge {
+    background-color: #3b82f6;
+    color: white;
+    font-size: 12px;
+    padding: 4px 10px;
+    border-radius: 999px;
+    font-weight: bold;
+  }
+
+  .company {
+    color: #64748b;
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+
+  .details {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    font-size: 14px;
+    color: #334155;
+    margin-bottom: 20px;
+  }
+  .description {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    font-size: 14px;
+    color: #334155;
+    margin-bottom: 20px;
+  }
+
+  .details i {
+    margin-right: 8px;
+    color: #2563eb;
+  }
+
+  .btn-apply {
+    background: #2563eb;
+    color: white;
+    padding: 10px 16px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 600;
+    width: 100%;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+
+  .btn-apply:hover {
+    background: #1e40af;
+  }
+
+  .description {
+    padding: 0 24px 20px;
+    font-size: 14.5px;
+    line-height: 1.7;
+    color: #374151;
+  }
+
+  .description i {
+    color: #2563eb;
+    margin-right: 6px;
+  }
+
+  @keyframes slideUp {
+    from {
+      opacity: 0;
+      transform: translateY(40px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @media (max-width: 480px) {
+    .job-card {
+      padding: 20px;
+      border-radius: 16px;
+    }
+
+    .job-title {
+      font-size: 18px;
+    }
+
+    .badge {
+      font-size: 11px;
+      padding: 3px 8px;
+    }
+  }

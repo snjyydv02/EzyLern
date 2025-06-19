@@ -58,9 +58,10 @@
 					</div>
 				</div>
 			</div>
+
 			<div class="col-lg-2 col-md-6">
-				<div class="footer-widget-content wow fadeInUp">
-					<div class="footer-widget-title">
+				<div class="footer-widget-content">
+					<div class="footer-widget-title wow fadeInDown">
 						<h4>Company</h4>
 					</div>
 					<div class="footer-widget-menu">
@@ -75,6 +76,7 @@
 					</div>
 				</div>
 			</div>
+
 			<div class="col-lg-2 col-md-6">
 				<div class="footer-widget-content wow fadeInDown">
 					<div class="footer-widget-title">
@@ -115,6 +117,7 @@
 			</div>
 		</div>
 	</div>
+
 	<div class="footer-bottom-area">
 		<div class="container">
 			<div class="row">
@@ -208,6 +211,3 @@
 <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
 
-</body>
-
-</html>

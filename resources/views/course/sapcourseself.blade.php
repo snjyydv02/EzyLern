@@ -324,7 +324,7 @@
 								<p><i class="bi bi-star-fill"></i> (5.0)</p>
 							</div>
 						</div>
-						<h3> <a href="{{route('abap')}}">Complete abap – Advanced Business Application Programming</a></h3>
+						<h3> <a href="{{route('abap')}}">Complete ABAP – Advanced Business Application Programming</a></h3>
 						<div class="text-icon">
 							<p> Discount of 68.75% applied</p>
 						</div>

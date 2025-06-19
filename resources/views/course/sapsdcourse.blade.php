@@ -1133,7 +1133,7 @@
                     </div>
                     <div class="bonus_text_content">
                         <div class="bonus-categorie-content">
-                            <h4>Bonus 1</h4>
+                            <h3>Bonus 1</h3>
                             <p>Assessment (4 projects)</p>
                             <span>A collection of sap mm certification questions for exam preparation.</span>
                         </div>
@@ -1153,7 +1153,7 @@
                     </div>
                     <div class="bonus_text_content">
                         <div class="bonus-categorie-content">
-                            <h4>Bonus 2</h4>
+                            <h3>Bonus 2</h3>
                             <p>Interview Questions</p>
                             <span>A collection of sap mm certification questions for exam preparation.</span>
                         </div>
@@ -1173,7 +1173,7 @@
                     </div>
                     <div class="bonus_text_content">
                         <div class="bonus-categorie-content">
-                            <h4>Bonus 3</h4>
+                            <h3>Bonus 3</h3>
                             <p> Configuration Documents </p>
                             <span>Detailed guides covering essential sap mm configurations..</span>
                         </div>
@@ -1193,7 +1193,7 @@
                     </div>
                     <div class="bonus_text_content">
                         <div class="bonus-categorie-content">
-                            <h4>Bonus 4</h4>
+                            <h3>Bonus 4</h3>
                             <p>Cheat Sheet</p>
                             <span>A handy guide summarizing key sap mm concepts and t-codes.</span>
                         </div>
@@ -1213,7 +1213,7 @@
                     </div>
                     <div class="bonus_text_content">
                         <div class="bonus-categorie-content">
-                            <h4>Bonus 5</h4>
+                            <h3>Bonus 5</h3>
                             <p>Certification (4 Badges)</p>
                             <span>Earn a certification and badge to showcase your expertise.</span>
                         </div>
@@ -1233,7 +1233,7 @@
                     </div>
                     <div class="bonus_text_content">
                         <div class="bonus-categorie-content">
-                            <h4>Bonus 6</h4>
+                            <h3>Bonus 6</h3>
                             <p>Monthly Q/A Session with Trainers</p>
                             <span>Live q&a sessions for doubt resolution and expert insights.</span>
                         </div>
@@ -1253,7 +1253,7 @@
                     </div>
                     <div class="bonus_text_content">
                         <div class="bonus-categorie-content">
-                            <h4>Bonus 7</h4>
+                            <h3>Bonus 7</h3>
                             <p>List Of Company Hiring SAP</p>
                             <span> Companies currently hiring sap professionals
                             </span>
@@ -1497,7 +1497,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> 
 
 
 <!--==================================================-->
@@ -1656,8 +1656,6 @@
         });
     });
 </script>
-
-
 
 
 <!--*********************End FAQ Script****************** -->

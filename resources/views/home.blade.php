@@ -399,7 +399,7 @@
 								<p><i class="bi bi-star-fill"></i> (5.0)</p>
 							</div>
 						</div>
-						<h3> <a href="{{route('abap')}}">Complete abap – Advanced Business Application Programming</a></h3>
+						<h3> <a href="{{route('abap')}}">Complete ABAP – Advanced Business Application Programming</a></h3>
 						<div class="text-icon">
 							<p> Discount of 68.75% applied</p>
 						</div>
@@ -1016,458 +1016,144 @@
 <!-- Start  webinar Section  -->
 <!--==================================================-->
 
-    <style>
 
-      .webinar-fixed-wrapper {
-        display: flex;
-        flex-direction: column;
-        height: 100vh;
-      }
-
-      .fixed-wrapper {
-        flex-shrink: 0;
-        position: sticky;
-        top: 0;
-        z-index: 1000;
-        background: white;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
-      }
-
-      .fixed-heading {
-        padding: 20px;
-        font-size: 24px;
-        font-weight: bold;
-        border-bottom: 2px solid #806cff;
-        background-color: white;
-        color: #806cff;
-        animation: fadeInDown 0.8s ease-in-out;
-      }
-
-      .fixed-top-section {
-        padding: 20px;
-        border-bottom: 1px solid #ccc;
-        animation: fadeIn 1s ease-in;
-      }
-
-      .fixed-top-section h2 {
-        color: #222;
-        margin-bottom: 10px;
-        font-size: 20px;
-      }
-
-      .fixed-top-section .badge {
-        background: #d9534f;
-        color: white;
-        padding: 4px 10px;
-        font-size: 12px;
-        border-radius: 3px;
-        margin-left: 10px;
-      }
-
-      .features {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 15px;
-        margin-top: 15px;
-        font-size: 14px;
-        transition: all 0.3s ease-in-out;
-      }
-
-      .features div::before {
-        content: "✔";
-        margin-right: 6px;
-        color: green;
-      }
-
-      .scrollable-section {
-        flex: 1;
-        overflow-y: auto;
-        padding: 20px;
-        background-color: #fafafa;
-        animation: slideUp 0.8s ease;
-      }
-
-      table {
-        width: 100%;
-        border-collapse: collapse;
-        margin-top: 20px;
-        box-shadow: 0 0 12px rgba(0, 0, 0, 0.05);
-      }
-
-      th,
-      td {
-        padding: 12px;
-        border: 1px solid #ccc;
-        text-align: center;
-        vertical-align: middle;
-        transition: background 0.3s ease;
-      }
-
-      th {
-        background: #806cff;
-        color: white;
-      }
-
-      tr:hover {
-        background: #ede7ff;
-      }
-
-      .enroll-btn {
-        background: #806cff;
-        color: white;
-        padding: 6px 14px;
-        text-decoration: none;
-        border-radius: 4px;
-        font-weight: bold;
-        cursor: pointer;
-        transition: all 0.3s ease;
-      }
-
-      .enroll-btn:hover {
-        background: #6c5edc;
-        transform: scale(1.05);
-      }
-
-      .filling-fast {
-        color: orange;
-        font-weight: bold;
-      }
-
-      @media (max-width: 600px) {
-        .features {
-          flex-direction: column;
-        }
-      }
-
-      .popup {
-        position: fixed;
-        top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        background: rgba(0, 0, 0, 0.5);
-        display: none;
-        justify-content: center;
-        align-items: center;
-        z-index: 2000;
-      }
-
-      .popup.active {
-        display: flex;
-        animation: fadeIn 0.4s ease-in-out;
-      }
-
-      .popup-content {
-        background: white;
-        padding: 30px;
-        border-radius: 12px;
-        width: 90%;
-        max-width: 420px;
-        position: relative;
-        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
-        animation: slideIn 0.4s ease-out;
-      }
-
-      .popup-content h2 {
-        margin-bottom: 20px;
-        text-align: center;
-        color: #806cff;
-      }
-
-      .form-group {
-        margin-bottom: 15px;
-      }
-
-      .form-group label {
-        display: block;
-        margin-bottom: 5px;
-        font-weight: 500;
-      }
-
-      .form-group input {
-        width: 100%;
-        padding: 10px;
-        border-radius: 6px;
-        border: 1px solid #ccc;
-        font-size: 15px;
-        transition: border 0.3s ease;
-      }
-
-      .form-group input:focus {
-        border-color: #806cff;
-        outline: none;
-      }
-
-      .phone-input {
-        display: flex;
-        gap: 10px;
-      }
-
-      .country-code {
-        background: #eaeaea;
-        border-radius: 6px;
-        padding: 10px 14px;
-        font-weight: 600;
-        font-size: 16px;
-        color: #555;
-        border: 1px solid #ccc;
-        display: flex;
-        align-items: center;
-      }
-
-      .captcha-box {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-      }
-
-      .captcha-code {
-        background: #eaeaea;
-        font-family: monospace;
-        padding: 10px 20px;
-        font-size: 20px;
-        border-radius: 6px;
-        letter-spacing: 4px;
-        user-select: none;
-        margin-right: 10px;
-      }
-
-      .refresh-captcha {
-        cursor: pointer;
-        font-size: 18px;
-        color: #806cff;
-      }
-
-      .submit-btn {
-        background: #806cff;
-        color: white;
-        width: 100%;
-        padding: 12px;
-        border: none;
-        border-radius: 6px;
-        cursor: pointer;
-        font-size: 16px;
-        margin-top: 10px;
-        transition: all 0.3s ease;
-      }
-
-      .submit-btn:hover {
-        background: #6c5edc;
-        transform: scale(1.03);
-      }
-
-      .close-btn {
-        position: absolute;
-        top: 15px;
-        right: 20px;
-        background: transparent;
-        border: none;
-        font-size: 24px;
-        color: #333;
-        cursor: pointer;
-      }
-
-      @keyframes slideIn {
-        from {
-          transform: translateY(-40px);
-          opacity: 0;
-        }
-        to {
-          transform: translateY(0);
-          opacity: 1;
-        }
-      }
-
-      @keyframes fadeIn {
-        from {
-          background-color: rgba(0, 0, 0, 0);
-        }
-        to {
-          background-color: rgba(0, 0, 0, 0.5);
-        }
-      }
-
-      @keyframes slideUp {
-        from {
-          transform: translateY(30px);
-          opacity: 0;
-        }
-        to {
-          transform: translateY(0);
-          opacity: 1;
-        }
-      }
-
-      @keyframes fadeInDown {
-        from {
-          opacity: 0;
-          transform: translateY(-20px);
-        }
-        to {
-          opacity: 1;
-          transform: translateY(0);
-        }
-      }
-    </style>
-
-    <div class="webinar-fixed-wrapper">
-      <div class="fixed-wrapper">
-        <div class="fixed-heading">UPCOMING COHORTS</div>
-        <div class="fixed-top-section">
-          <h2>Live Online Classroom <span class="badge">PREFERRED</span></h2>
-          <div class="features">
-            <div>Everything in Self-Paced Plus</div>
-            <div>Mentoring by Award Winning Trainers</div>
-            <div>1-Year Gold Membership</div>
-            <div>Attend Unlimited Live Sessions</div>
-            <div>Flexible Schedule</div>
-            <div>Weekly Bootcamp Sessions</div>
-            <div>Get Recordings of All Batches</div>
-          </div>
+<div class="webinar-section">
+	<div class="container">
+		<div class="row">
+			   <div class="webinar-fixed-wrapper">
+      <div class="webinar-fixed-heading">
+		<h2>Upcoming Webinar</h2>
+	  </div>
+      <div class="webinar-fixed-top-section">
+        <h3>
+          Live Online Classroom <span class="webinar-badge">PREFERRED</span>
+        </h3>
+        <div class="webinar-features">
+          <span>Everything in Self-Paced Plus</span>
+          <span>Mentoring by Award Winning Trainers</span>
+          <span>1-Year Gold Membership</span>
+          <span>Attend Unlimited Live Sessions</span>
+          <span>Flexible Schedule</span>
+          <span>Weekly Bootcamp Sessions</span>
+          <span>Get Recordings of All Batches</span>
         </div>
       </div>
 
-      <div class="scrollable-section">
-        <h3>Post Graduate Program In French Language - Job Guarantee
-          Program</h3>
-        <table>
-          <tr>
+      <div class="webinar-scrollable-section">
+        <h3>Post Graduate Program In French Language - Job Guarantee Program</h3>
+        <table class="webinar-table-main">
+          <tr class="webinar-table">
             <th>Starts</th>
             <th>Mode</th>
             <th>Timing</th>
             <th>Status</th>
           </tr>
-          <tr>
+          <tr class="webinar-table">
             <td>Starts Every Week</td>
             <td>Live Virtual Classroom</td>
-            <td class="filling-fast">⚡ Filling Fast</td>
-            <td><button class="enroll-btn" onclick="openPopup()">ENROLL
-                NOW</button></td>
+            <td class="webinar-filling-fast">⚡ Filling Fast</td>
+            <td><button class="webinar-enroll-btn" onclick="openPopup()">ENROLL NOW</button></td>
           </tr>
         </table>
 
-        <h3>French Language A1 Level Course</h3>
-        <table>
-          <tr>
+        <div class="webinar-heading">
+			<h3>French Language A1 Level Course </h3>
+		</div>
+        <table class="webinar-table-main">
+          <tr class="webinar-table">
             <th>Starts</th>
             <th>Mode</th>
             <th>Timing</th>
             <th>Status</th>
           </tr>
-          <tr>
+          <tr class="webinar-table">
             <td>Starts Every Week</td>
             <td>Live Virtual Classroom</td>
-            <td class="filling-fast">⚡ Filling Fast</td>
-            <td><button class="enroll-btn" onclick="openPopup()">ENROLL
-                NOW</button></td>
+            <td class="webinar-filling-fast">⚡ Filling Fast</td>
+            <td><button class="webinar-enroll-btn" onclick="openPopup()">ENROLL NOW</button></td>
           </tr>
-          <tr>
+          <!-- Repeatable row -->
+          <tr class="webinar-table">
             <td>11 June 2025 🛈<br /><small>Weekday Batch</small></td>
             <td>Instructor-Led Live Online</td>
-            <td>8:00PM–10:00PM <br /><span style="color: green">Registration
-                Open</span></td>
-            <td><button class="enroll-btn" onclick="openPopup()">ENROLL
-                NOW</button></td>
+            <td>8:00PM–10:00PM <br /><span style="color: green">Registration Open</span></td>
+            <td><button class="webinar-enroll-btn" onclick="openPopup()">ENROLL NOW</button></td>
           </tr>
-          <tr>
+          <tr class="webinar-table">
             <td>11 June 2025 🛈<br /><small>Weekday Batch</small></td>
             <td>Instructor-Led Live Online</td>
-            <td>8:00PM–10:00PM <br /><span style="color: green">Registration
-                Open</span></td>
-            <td><button class="enroll-btn" onclick="openPopup()">ENROLL
-                NOW</button></td>
+            <td>8:00PM–10:00PM <br /><span style="color: green">Registration Open</span></td>
+            <td><button class="webinar-enroll-btn" onclick="openPopup()">ENROLL NOW</button></td>
           </tr>
-          <tr>
+          <tr class="webinar-table">
             <td>11 June 2025 🛈<br /><small>Weekday Batch</small></td>
             <td>Instructor-Led Live Online</td>
-            <td>8:00PM–10:00PM <br /><span style="color: green">Registration
-                Open</span></td>
-            <td><button class="enroll-btn" onclick="openPopup()">ENROLL
-                NOW</button></td>
+            <td>8:00PM–10:00PM <br /><span style="color: green">Registration Open</span></td>
+            <td><button class="webinar-enroll-btn" onclick="openPopup()">ENROLL NOW</button></td>
           </tr>
-          <tr>
+          <tr class="webinar-table">
             <td>11 June 2025 🛈<br /><small>Weekday Batch</small></td>
             <td>Instructor-Led Live Online</td>
-            <td>8:00PM–10:00PM <br /><span style="color: green">Registration
-                Open</span></td>
-            <td><button class="enroll-btn" onclick="openPopup()">ENROLL
-                NOW</button></td>
+            <td>8:00PM–10:00PM <br /><span style="color: green">Registration Open</span></td>
+            <td><button class="webinar-enroll-btn" onclick="openPopup()">ENROLL NOW</button></td>
+          </tr>
+          <tr class="webinar-table">
+            <td>11 June 2025 🛈<br /><small>Weekday Batch</small></td>
+            <td>Instructor-Led Live Online</td>
+            <td>8:00PM–10:00PM <br /><span style="color: green">Registration Open</span></td>
+            <td><button class="webinar-enroll-btn" onclick="openPopup()">ENROLL NOW</button></td>
+          </tr>
+          <tr class="webinar-table">
+            <td>11 June 2025 🛈<br /><small>Weekday Batch</small></td>
+            <td>Instructor-Led Live Online</td>
+            <td>8:00PM–10:00PM <br /><span style="color: green">Registration Open</span></td>
+            <td><button class="webinar-enroll-btn" onclick="openPopup()">ENROLL NOW</button></td>
           </tr>
         </table>
       </div>
     </div>
 
-
-    
-    <!-- ✅ WHY CHOOSE US Section -->
-    <div
-      style="padding: 30px 20px; background: #fff; border-top: 1px solid #eee;">
-      <h3 style="font-size: 22px; color: #333; margin-bottom: 16px;">Why Choose
-        Us?</h3>
-      <ul
-        style="list-style: none; padding-left: 0; font-size: 16px; line-height: 1.8;">
-        <li>✅ 100% Job Guarantee Programs</li>
-        <li>✅ Global Certifications</li>
-        <li>✅ Lifetime Access to Learning Materials</li>
-        <li>✅ 24/7 Dedicated Support</li>
-        <li>✅ Real-Time Projects & Internship Support</li>
-      </ul>
-    </div>
-
-    <div
-      style="padding: 30px 20px; background: #fff; border-top: 1px solid #eee;">
-      <h3 style="font-size: 22px; color: #333; margin-bottom: 16px;">Why Choose
-        Us?</h3>
-      <ul
-        style="list-style: none; padding-left: 0; font-size: 16px; line-height: 1.8;">
-        <li>✅ 100% Job Guarantee Programs</li>
-        <li>✅ Global Certifications</li>
-        <li>✅ Lifetime Access to Learning Materials</li>
-        <li>✅ 24/7 Dedicated Support</li>
-        <li>✅ Real-Time Projects & Internship Support</li>
-      </ul>
-    </div>
-
-    <!-- POPUP MODAL -->
-    <div class="popup" id="popup">
-      <div class="popup-content">
-        <button class="close-btn" onclick="closePopup()">&times;</button>
-        <h2>Enroll Now</h2>
+    <!-- POPUP -->
+    <div class="webinar-popup" id="webinar-popup">
+      <div class="webinar-popup-content">
+        <button class="webinar-close-btn" onclick="closePopup()">&times;</button>
+        <div class="webinar-enroll-now">
+			<h3>Enroll Now</h3>
+		</div>
         <form onsubmit="return validateForm()">
-          <div class="form-group">
+          <div class="webinar-form-group">
             <label for="name">Full Name</label>
-            <input type="text" id="name" required placeholder="Your Name"
-              onkeypress="return /[a-zA-Z\s]/.test(String.fromCharCode(event.charCode))" />
+            <input type="text" id="name" required placeholder="Your Name" />
           </div>
-          <div class="form-group">
+          <div class="webinar-form-group">
             <label for="email">Email Address</label>
-            <input type="email" id="email" required
-              placeholder="example@email.com" />
+            <input type="email" id="email" required placeholder="example@email.com" />
           </div>
-          <div class="form-group">
+          <div class="webinar-form-group">
             <label for="number">Mobile Number</label>
-            <div class="phone-input">
-              <div class="country-code">+91</div>
-              <div class="phone-number-input">
-                <input type="tel" id="number" required maxlength="10"
-                  pattern="[0-9]{10}" placeholder="10-digit number" />
-              </div>
+            <div class="webinar-phone-input">
+              <div class="webinar-country-code">+91</div>
+              <input type="tel" id="number" required maxlength="10" pattern="[0-9]{10}" placeholder="10-digit number" />
             </div>
           </div>
-          <div class="form-group">
+          <div class="webinar-form-group">
             <label>Captcha</label>
-            <div class="captcha-box">
-              <div class="captcha-code" id="captcha">ABC123</div>
-              <span class="refresh-captcha"
-                onclick="generateCaptcha()">&#x21bb;</span>
+            <div class="webinar-captcha-box">
+              <div class="webinar-captcha-code" id="webinar-captcha">ABC123</div>
+              <span class="webinar-refresh-captcha" onclick="generateCaptcha()">&#x21bb;</span>
             </div>
-            <input type="text" id="captchaInput" placeholder="Enter captcha"
-              required />
+            <input type="text" id="captchaInput" placeholder="Enter captcha" required />
           </div>
-          <button type="submit" class="submit-btn">Save</button>
+          <button type="submit" class="webinar-submit-btn">Save</button>
         </form>
       </div>
     </div>
+
+	  
+
+		</div>
+	</div>
+</div>
 
 
 
@@ -1542,15 +1228,15 @@
 
 
 <!-- Webinar Script -->
-
+ 
     <script>
       function openPopup() {
         generateCaptcha();
-        document.getElementById("popup").classList.add("active");
+        document.getElementById("webinar-popup").classList.add("active");
       }
 
       function closePopup() {
-        document.getElementById("popup").classList.remove("active");
+        document.getElementById("webinar-popup").classList.remove("active");
       }
 
       function generateCaptcha() {
@@ -1559,17 +1245,16 @@
         for (let i = 0; i < 6; i++) {
           captcha += charset[Math.floor(Math.random() * charset.length)];
         }
-        const captchaElem = document.getElementById("captcha");
+        const captchaElem = document.getElementById("webinar-captcha");
         captchaElem.textContent = captcha;
         captchaElem.setAttribute("data-code", captcha);
       }
 
       function validateForm() {
         const name = document.getElementById("name").value.trim();
-        const email = document.getElementById("email").value.trim();
         const number = document.getElementById("number").value.trim();
         const captchaInput = document.getElementById("captchaInput").value.trim();
-        const captchaCode = document.getElementById("captcha").getAttribute("data-code");
+        const captchaCode = document.getElementById("webinar-captcha").getAttribute("data-code");
 
         if (!/^[a-zA-Z\s]+$/.test(name)) {
           alert("Name must only contain letters and spaces.");

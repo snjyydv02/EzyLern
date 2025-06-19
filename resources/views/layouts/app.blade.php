@@ -4,7 +4,6 @@
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>EzyLern</title>
   {{-- 🔹 Title --}}
   <title>@yield('meta_title', 'EzyLern – Learn Smarter')</title>
 

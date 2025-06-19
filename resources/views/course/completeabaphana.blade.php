@@ -29,14 +29,14 @@ Master SAP ABAP with Ezylern. Learn ABAP programming through practical, real-tim
 						src="https://lms.ezylern.com/js-sdks/signup-sdk/iframe.php?subdomain=srijaninstitutetrainingcenter">
 					</iframe>
 					<div class="breadcumb-title">
-						<h1> Complete ABAP - Advanced Business Application Programming</h1>
+						<h1> ABAP course online with certificate & live training</h1>
 					</div>
 					<ul>
 						<li><a href="{{route('home')}}">Home</a></li>
 						<li><i class="bi bi-chevron-right"></i></li>
 						<li>Courses</li>
 						<li><i class="bi bi-chevron-right"></i></li>
-						<li>Complete ABAP teaches SAP application development using core ABAP, OO-ABAP, and ABAP on HANA.
+						<li>ABAP course online with certificate & live training
 					</ul>
 				</div>
 			</div>

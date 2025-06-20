@@ -80,7 +80,7 @@ Master SAP ABAP with Ezylern. Learn ABAP programming through practical, real-tim
 			<div class="col-lg-8">
 				<div class="single-courses-details-box wow fadeInLeft">
 					<div class="courses-details-thumb">
-						<img src="assets/images/resource/coursecompleteabap_thumb.svg" alt="thumb">
+						<img src="assets/images/resource/coursecompleteabap_thumb.webp" alt="thumb">
 					</div>
 					<div class="courses-details-content">
 
@@ -102,210 +102,517 @@ Master SAP ABAP with Ezylern. Learn ABAP programming through practical, real-tim
 									<button class="w3-bar-item w3-button" onclick="openCity('Reviews')">Reviews</button>
 								</div>
 							</div>
-							<div id="Overview" class="w3-container city wow fadeInLeft">
+							<!-- start course details  -->
+
+							<div id="Overview"
+								class="w3-container city wow fadeInLeft">
 								<div class="courses-details-text">
-									<h3>Course Description</h3>
-									<p>A Complete ABAP course provides in-depth training in ABAP programming within the SAP environment. You’ll learn to develop reports, interfaces, and custom applications using core ABAP, OO-ABAP, and ABAP on HANA. The course covers data dictionary concepts, modularization techniques, and performance tuning. By the end, you will be proficient in building efficient and scalable SAP applications.</p>
+									<h2>Course Description</h2>
+									<p>Want to learn how big companies make their software? This ABAP online course will teach you. <br>
+										A complete ABAP online course teaches how to write programs in SAP. SAP is a software that many big companies use. We look forward to making reports, apps, and tools that help companies work better. <br>
+										By the end of the course, you will be able to use smart and useful tools for companies using SAP.
+									</p>
 								</div>
 
-								<div class="courses-details-title wow fadeInRight">
-									<h3>What You’ll Learn From This Course</h3>
-									<p>In a Complete ABAP course, you will learn to develop SAP applications using core ABAP, OO-ABAP, and ABAP on HANA. You’ll gain skills in creating reports, interfaces, and data models while optimizing performance. The course also covers debugging, modularization, and advanced programming techniques.</p>
+								<div class="courses-feature-text wow fadeInRight">
+									<h2>Advantages of our ABAP online training</h2>
+									<p>Let us see how this course will benefit your future and how it is unique and useful for you.</p>
 								</div>
 								<div class="courses-details-list wow fadeInLeft">
-									<ul>
-										<li><i class="bi bi-check"></i><span>Develop SAP applications using core ABAP, OO-ABAP, and ABAP on HANA.</span></li>
-										<li><i class="bi bi-check"></i><span>Create reports, interfaces, and custom programs within the SAP ecosystem.</span></li>
-										<li><i class="bi bi-check"></i><span>Implement data dictionary concepts, modularization, and performance tuning. </span></li>
-										<li><i class="bi bi-check"></i><span>Enhance existing applications with debugging and optimization techniques.</span></li>
+									<ul class="courses-details-advantage-check">
+										<li><i class="bi bi-check"></i>
+											<p class="course-details-advantage-check-head">Live classes with experts</p>
+										</li>
+										<p class="course-details-advantage-check-text">You will learn from industry experts and real teachers, not just videos. You can ask questions right away during class to clear your doubts.</p>
+									</ul>
+									<ul class="courses-details-advantage-check">
+										<li><i class="bi bi-check"></i>
+											<p class="course-details-advantage-check-head">Certificate after the course</p>
+										</li>
+										<p class="course-details-advantage-check-text">When you complete the course, you will get a certificate. This shows others that you have learned SAP and FICO skills.</p>
+									</ul>
+									<ul class="courses-details-advantage-check">
+										<li><i class="bi bi-check"></i>
+											<p class="course-details-advantage-check-head">Real-life examples</p>
+										</li>
+										<p class="course-details-advantage-check-text">We use real business stories to help you understand how SAP is used in the real world.</p>
+									</ul>
+									<ul class="courses-details-advantage-check">
+										<li><i class="bi bi-check"></i>
+											<p class="course-details-advantage-check-head">Practice on a real SAP system</p>
+										</li>
+										<p class="course-details-advantage-check-text">You will get access to the SAP software, so you can practice what you learn.</p>
+									</ul>
+									<ul class="courses-details-advantage-check">
+										<li><i class="bi bi-check"></i>
+											<p class="course-details-advantage-check-head">Fun assignments and quizzes</p>
+										</li>
+										<p class="course-details-advantage-check-text">There are small tasks and quizzes to help you remember and test how much you learned.</p>
+									</ul>
+									<ul class="courses-details-advantage-check">
+										<li><i class="bi bi-check"></i>
+											<p class="course-details-advantage-check-head">Help anytime you need</p>
+										</li>
+										<p class="course-details-advantage-check-text">If you have any queries or doubts, we are here 24/7 to support you and answer your questions.</p>
 									</ul>
 								</div>
-								<div class="courses-details-text-left wow fadeInLeft">
-									<h3>Certification</h3>
-									<p>
-										We are pleased to award you the Certificate of Completion for successfully finishing the Complete ABAP course. Your commitment to mastering ABAP programming skills is commendable. Congratulations on your achievement!</p>
-
-									<img src="assets/images/resource/abap_certification.webp" alt="">
+								<div class="course-lern-details-text">
+									<div class="courses-details-text wow fadeInLeft">
+										<h2>What ABAP course will make you learn? </h2>
+										<p>In a <strong>complete ABAP online course,</strong> master yourself to create smart tools and apps for SAP. In this, you will learn how to create computer programs that help big companies run better software.
+											You will also learn to find and fix mistakes in your program. It is like learning to build software that businesses need to do their work faster and smarter.
+										</p>
+									</div>
+									<div class="courses-feature-text  wow fadeInRight">
+										<h2>Here is what you will gain through the ABAP online course</h2>
+										<p>Through this course, gain the skills to write computer programs using ABAP, which is used in SAP software. Our online training will help in making reports and tools that are important for businesses.</p>
+									</div>
+									<div class="courses-details-list wow fadeInRight">
+										<ul class="courses-details-title-check">
+											<li><i
+													class="bi bi-check"></i>
+												<p>How to write easy and hard ABAP programs.
+											</li>
+											<li><i
+													class="bi bi-check"></i>
+												<p>How to make reports and connect different parts of SAP.</p>
+											</li>
+											<li><i
+													class="bi bi-check"></i>
+												<p>How to save and organize data.</p>
+											</li>
+											<li><i
+													class="bi bi-check"></i>
+												<p>People who already using SAP can learn more by adding SAP SD.</p>
+											</li>
+											<li><i
+													class="bi bi-check"></i>
+												<p>Anyone who wants good and high-paying jobs will get major help.</p>
+											</li>
+										</ul>
+									</div>
+									<div class="courses-feature-text  wow fadeInRight">
+										<h2>Who this course is for</h2>
+										<p>The course is for anyone who wants to learn how to build software, even if you are new to it. It is perfect for freshers, students, or anyone who wants to work with big companies.</p>
+									</div>
+									<div class="courses-details-list wow fadeInRight">
+										<ul class="courses-details-title-check">
+											<li><i
+													class="bi bi-check"></i>
+												<p>Students who want to learn new skills for future jobs.
+											</li>
+											<li><i
+													class="bi bi-check"></i>
+												<p>People are looking for jobs and want to work in big companies.</p>
+											</li>
+											<li><i
+													class="bi bi-check"></i>
+												<p>Working professionals who want to build their skills strong. </p>
+											</li>
+											<li><i
+													class="bi bi-check"></i>
+												<p>Beginners who do not know anything about ABAP but want to learn.</p>
+											</li>
+										</ul>
+									</div>
 								</div>
+
 							</div>
-							<div id="Curriculum" class="w3-container city" style="display:none">
+
+							<!-- end course details  -->
+
+
+
+							<!-- ****************************************************** -->
+							<!-- Start Curriculum Section -->
+							<!-- ******************************************************* -->
+
+
+							<div id="Curriculum"
+								class="w3-container city"
+								style="display:none">
 								<div class="tab">
 									<div class="tab_content">
-										<div class="tabs_item" style="display: block;">
-											<div class="course-curriculum">
-												<h4>Getting Started with Uniaro</h4>
-												<p class="crlm-dtls">At EzyLearn, we’re committed to shaping the future of education through cutting-edge Course design and seamless functionality — ensuring every tool and feature enhances the learner experience.</p>
-												<p class="crlm-dtls">We create lightweight, powerful learning components that are easy to use, high-performing, and visually engaging — perfectly suited for any modern web-based education platform.
+										<div class="tabs_item"
+											style="display: block;">
+											<div
+												class="course-curriculum">
+												<h4>Getting Started with
+													Uniaro</h4>
+												<p class="crlm-dtls">At
+													EzyLearn, we’re
+													committed to shaping
+													the future of
+													education through
+													cutting-edge Course
+													design and seamless
+													functionality —
+													ensuring every tool
+													and feature enhances
+													the learner
+													experience.</p>
+												<p class="crlm-dtls">We
+													create lightweight,
+													powerful learning
+													components that are
+													easy to use,
+													high-performing, and
+													visually engaging —
+													perfectly suited for
+													any modern web-based
+													education platform.
 												</p>
-												<div class="tab_container2">
-													<div id="tab1" class="tab_content">
-														<ul class="accordion up" id="lectureList">
-															<li>
-																<a class="active">1 Lectures</a>
-																<p class="preview_btn">
-																	<i class="bi bi-card-checklist"></i> Introduction to Complete ABAP
-																	<span class="clm-prv" data-video-url="https://www.youtube.com/embed/t1d5kaugnGk?si=NQDcLW1GLE0H5JTI" title="YouTube video player"">Preview</span> 
-																	<span class=" curricolumn-duration">11m 16s</span>
-																</p>
-															</li>
-															<li>
-																<a class="active">2 Lectures</a>
-																<p class="preview_btn">
-																	<i class="bi bi-card-checklist"></i> Tables and Maintennance of Table
-																	<span class="clm-prv" data-video-url="https://www.youtube.com/embed/dVHnMl9ad6M?si=dGEelIF0wtN2wCmc" title="YouTube video player">Preview</span>
-																	<span class="curricolumn-duration">11m 51s</span>
-																</p>
-															</li>
-															<li>
-																<a class="active">3 Lectures</a>
-																<p class="preview_btn">
-																	<i class="bi bi-card-checklist"></i> Item Table Creation, Foreign Keys, Views
-																	<span class="curricolumn-duration"><i class="bi bi-lock-fill"></i></span>
-																</p>
-																</p>
-															</li>
-															<li>
-																<a class="active">4 Lectures</a>
-																<p class="preview_btn">
-																	<i class="bi bi-card-checklist"></i> Seach Help, Table Buffering,Lock Objects
-																	<span class="curricolumn-duration"><i class="bi bi-lock-fill"></i></span>
-																</p>
-																</p>
-															</li>
+												<div class="course-tab_container2">
+													<ul class="course-accordion" id="lectureList">
+														<li>
+															<a>1 Lectures</a>
+															<p>
+																<span class="course-preview-left">
+																	<i class="bi bi-card-checklist"></i>
+																	 Introduction to Complete ABAP 
+																</span>
+																<span class="course-preview-right">
+																	<span class="course-clm-prv"
+																		data-video-url="https://www.youtube.com/embed/t1d5kaugnGk?si=NQDcLW1GLE0H5JTI">Preview</span>
+																	<span class="course-curricolumn-duration">25m
+																	</span>
+															</p>
+														</li>
+														<li>
+															<a>2 Lectures</a>
+															<p>
+																<span class="course-preview-left">
+																	<i class="bi bi-card-checklist"></i>
+																 Tables and Maintennance of Table 
+																</span>
+																<span class="course-preview-right">
+																	<span class="course-clm-prv"
+																		data-video-url="https://www.youtube.com/embed/dVHnMl9ad6M?si=dGEelIF0wtN2wCmc">Preview</span>
+																	<span class="course-curricolumn-duration">1h
+																		33s</span>
+																</span>
+															</p>
+														</li>
+														<li>
+															<a>3 Lectures</a>
+															<p>
+																<span class="course-preview-left">
+																	<i class="bi bi-card-checklist"></i>
+																 Item Table Creation, Foreign Keys, Views1
+																</span>
+																<span class="course-preview-right">
+																	<span class="course-curricolumn-duration"><i
+																			class="bi bi-lock-fill"></i></span>
+																</span>
+															</p>
+														</li>
+														<li>
+															<a>4 Lectures</a>
+															<p>
+																<span class="course-preview-left">
+																	<i class="bi bi-card-checklist"></i>
+																 Seach Help, Table Buffering,Lock Objects
+																</span>
+																<span class="course-preview-right">
+																	<span class="course-curricolumn-duration"><i
+																			class="bi bi-lock-fill"></i></span>
+																</span>
+															</p>
+														</li>
+														<li>
+															<a>5 Lectures</a>
+															<p>
+																<span class="course-preview-left">
+																	<i class="bi bi-card-checklist"></i>
+															Introduction to ABAP Programming, Data Types, Data Objects
+																</span>
+																<span class="course-preview-right">
+																	<span class="course-curricolumn-duration"><i
+																			class="bi bi-lock-fill"></i></span>
+																</span>
+															</p>
+														</li>
+														<li>
+															<a>6 Lectures</a>
+															<p>
+																<span class="course-preview-left">
+																	<i class="bi bi-card-checklist"></i>
+														 Internal Table Operations
+																</span>
+																<span class="course-preview-right">
+																	<span class="course-curricolumn-duration"><i
+																			class="bi bi-lock-fill"></i></span>
+																</span>
+															</p>
+														</li>
+														<li>
+															<a>7 Lectures</a>
+															<p>
+																<span class="course-preview-left">
+																	<i class="bi bi-card-checklist"></i>
+ Internal Table Operations, Selection Screen, Open SQL Queries
+																</span>
+																<span class="course-preview-right">
+																	<span class="course-curricolumn-duration"><i
+																			class="bi bi-lock-fill"></i></span>
+																</span>
+															</p>
+														</li>
+														<li>
+															<a>8 Lectures</a>
+															<p>
+																<span class="course-preview-left">
+																	<i class="bi bi-card-checklist"></i>
+																 For All Entries, Joins, Messages, TCODE Creation
+																</span>
+																<span class="course-preview-right">
+																	<span class="course-curricolumn-duration"><i
+																			class="bi bi-lock-fill"></i></span>
+																</span>
+															</p>
+														</li>
+														<li>
+															<a>9 Lectures</a>
+															<p>
+																<span class="course-preview-left">
+																	<i class="bi bi-card-checklist"></i>
+														 Classical Report Events, Interactive Classical Report Events
+																</span>
+																<span class="course-preview-right">
+																	<span class="course-curricolumn-duration"><i
+																			class="bi bi-lock-fill"></i></span>
+																</span>
+															</p>
+														</li>
+														<li>
+															<a>10 Lectures</a>
+															<p>
+																<span class="course-preview-left">
+																	<i class="bi bi-card-checklist"></i>
+															 Interactive, Reports, Modularization Techniques
+																</span>
+																<span class="course-preview-right">
+																	<span class="course-curricolumn-duration"><i
+																			class="bi bi-lock-fill"></i></span>
+																</span>
+															</p>
+														</li>
+														<li>
+															<a>11 Lectures</a>
+															<p>
+																<span class="course-preview-left">
+																	<i class="bi bi-card-checklist"></i>
+																ALV Reports
+																</span>
+																<span class="course-preview-right">
+																	<span class="course-curricolumn-duration"><i
+																			class="bi bi-lock-fill"></i></span>
+																</span>
+															</p>
+														</li>
+														<li>
+															<a>12 Lectures</a>
+															<p>
+																<span class="course-preview-left">
+																	<i class="bi bi-card-checklist"></i>
+															 Interactive ALV, Introduction to Module Pool Program
+																</span>
+																<span class="course-preview-right">
+																	<span class="course-curricolumn-duration"><i
+																			class="bi bi-lock-fill"></i></span>
+																</span>
+															</p>
+														</li>
+														<li>
+															<a>13 Lectures</a>
+															<p>
+																<span class="course-preview-left">
+																	<i class="bi bi-card-checklist"></i>
+																	 Introduction to OOPS ABAP
+																</span>
+																<span class="course-preview-right">
+																	<span class="course-curricolumn-duration"><i
+																			class="bi bi-lock-fill"></i></span>
+																</span>
+															</p>
+														</li>
+														<li>
+															<a>14 Lectures</a>
+															<p>
+																<span class="course-preview-left">
+																	<i class="bi bi-card-checklist"></i>
+																	 OOPS Features Part 1
+																</span>
+																<span class="course-preview-right">
+																	<span class="course-curricolumn-duration"><i
+																			class="bi bi-lock-fill"></i></span>
+																</span>
+															</p>
+														</li>
+														<li>
+															<a>15 Lectures</a>
+															<p>
+																<span class="course-preview-left">
+																	<i class="bi bi-card-checklist"></i>
+																OOPS ALV
+																</span>
+																<span class="course-preview-right">
+																	<span class="course-curricolumn-duration"><i
+																			class="bi bi-lock-fill"></i></span>
+																</span>
+															</p>
+														</li>
+														<li>
+															<a>16 Lectures</a>
+															<p>
+																<span class="course-preview-left">
+																	<i class="bi bi-card-checklist"></i>
+																 Introduction to Data Migration
+																</span>
+																<span class="course-preview-right">
+																	<span class="course-curricolumn-duration"><i
+																			class="bi bi-lock-fill"></i></span>
+																</span>
+															</p>
+														</li>
+														<li>
+															<a>17 Lectures</a>
+															<p>
+																<span class="course-preview-left">
+																	<i class="bi bi-card-checklist"></i>
+																 Data Migration Techniques
+																</span>
+																<span class="course-preview-right">
+																	<span class="course-curricolumn-duration"><i
+																			class="bi bi-lock-fill"></i></span>
+																</span>
+															</p>
+														</li>
+														<li>
+															<a>18 Lectures</a>
+															<p>
+																<span class="course-preview-left">
+																	<i class="bi bi-card-checklist"></i>
+																 Introduction to Smartforms
+																</span>
+																<span class="course-preview-right">
+																	<span class="course-curricolumn-duration"><i
+																			class="bi bi-lock-fill"></i></span>
+																</span>
+															</p>
+														</li>
+														<li>
+															<a>19 Lectures</a>
+															<p>
+																<span class="course-preview-left">
+																	<i class="bi bi-card-checklist"></i>
+															 Smartforms Part 2
+																</span>
+																<span class="course-preview-right">
+																	<span class="course-curricolumn-duration"><i
+																			class="bi bi-lock-fill"></i></span>
+																</span>
+															</p>
+														</li>
+														<li>
+															<a>20 Lectures</a>
+															<p>
+																<span class="course-preview-left">
+																	<i class="bi bi-card-checklist"></i>
+																	 Smartforms Part 3
+																</span>
+																<span class="course-preview-right">
+																	<span class="course-curricolumn-duration"><i
+																			class="bi bi-lock-fill"></i></span>
+																</span>
+															</p>
+														</li>
+														<li>
+															<a>21 Lectures</a>
+															<p>
+																<span class="course-preview-left">
+																	<i class="bi bi-card-checklist"></i>
+																	 Introduction to OData Services in ABAP
+																</span>
+																<span class="course-preview-right">
+																	<span class="course-curricolumn-duration"><i
+																			class="bi bi-lock-fill"></i></span>
+																</span>
+															</p>
+														</li>
+														<li>
+															<a>22 Lectures</a>
+															<p>
+																<span class="course-preview-left">
+																	<i class="bi bi-card-checklist"></i>
+														 Features of OData
+																</span>
+																<span class="course-preview-right">
+																	<span class="course-curricolumn-duration"><i
+																			class="bi bi-lock-fill"></i></span>
+																</span>
+															</p>
+														</li>
+														<li>
+															<a>23 Lectures</a>
+															<p>
+																<span class="course-preview-left">
+																	<i class="bi bi-card-checklist"></i>
+																 CRUD Operations in OData
+																</span>
+																<span class="course-preview-right">
+																	<span class="course-curricolumn-duration"><i
+																			class="bi bi-lock-fill"></i></span>
+																</span>
+															</p>
+														</li>
+														<li>
+															<a>24 Lectures</a>
+															<p>
+																<span class="course-preview-left">
+																	<i class="bi bi-card-checklist"></i>
+																	 Deep Entity in OData
+																</span>
+																<span class="course-preview-right">
+																	<span class="course-curricolumn-duration"><i
+																			class="bi bi-lock-fill"></i></span>
+																</span>
+															</p>
+														</li>
+													</ul>
 
-															<li>
-																<a>5 Lectures</a>
-																<p> <i class="bi bi-card-checklist"></i>Introduction to ABAP Programming, Data Types, Data Objects
-																	<span class="curricolumn-duration"><i class="bi bi-lock-fill"></i></span>
-																</p>
-															</li>
-															<li>
-																<a>6 Lectures</a>
-																<p> <i class="bi bi-card-checklist"></i> Internal Table Operations
-																	<span class="curricolumn-duration"><i class="bi bi-lock-fill"></i></span>
-																</p>
-															</li>
-															<li>
-																<a>7 Lectures</a>
-																<p> <i class="bi bi-card-checklist"></i> Internal Table Operations, Selection Screen, Open SQL Queries
-																	<span class="curricolumn-duration"><i class="bi bi-lock-fill"></i></span>
-																</p>
-															</li>
-															<li>
-																<a>8 Lectures</a>
-																<p> <i class="bi bi-card-checklist"></i> For All Entries, Joins, Messages, TCODE Creation
-																	<span class="curricolumn-duration"><i class="bi bi-lock-fill"></i></span>
-																</p>
-															</li>
-															<li>
-																<a>9 Lectures</a>
-																<p> <i class="bi bi-card-checklist"></i> Classical Report Events, Interactive Classical Report Events
-																	<span class="curricolumn-duration"><i class="bi bi-lock-fill"></i></span>
-																</p>
-															</li>
-															<li>
-																<a>10 Lectures</a>
-																<p> <i class="bi bi-card-checklist"></i> Interactive, Reports, Modularization Techniques
-																	<span class="curricolumn-duration"><i class="bi bi-lock-fill"></i></span>
-																</p>
-															</li>
-															<li>
-																<a>11 Lectures</a>
-																<p> <i class="bi bi-card-checklist"></i> ALV Reports
-																	<span class="curricolumn-duration"><i class="bi bi-lock-fill"></i></span>
-																</p>
-															</li>
-															<li>
-																<a>12 Lectures</a>
-																<p> <i class="bi bi-card-checklist"></i> Interactive ALV, Introduction to Module Pool Program </span>
-
-																	<span class="curricolumn-duration"><i class="bi bi-lock-fill"></i></span>
-																</p>
-															</li>
-															<li>
-																<a>13 Lectures</a>
-																<p> <i class="bi bi-card-checklist"></i> Introduction to OOPS ABAP
-																	<span class="curricolumn-duration"><i class="bi bi-lock-fill"></i></span>
-																</p>
-															</li>
-															<li>
-																<a>14 Lectures</a>
-																<p> <i class="bi bi-card-checklist"></i> OOPS Features Part 1
-																	<span class="curricolumn-duration"><i class="bi bi-lock-fill"></i></span>
-																</p>
-															</li>
-															<li>
-																<a>15 Lectures</a>
-																<p> <i class="bi bi-card-checklist"></i>OOPS ALV
-																	<span class="curricolumn-duration"><i class="bi bi-lock-fill"></i></span>
-																</p>
-															</li>
-															<li>
-																<a>16 Lectures</a>
-																<p> <i class="bi bi-card-checklist"></i> Introduction to Data Migration
-																	<span class="curricolumn-duration"><i class="bi bi-lock-fill"></i></span>
-																</p>
-															</li>
-															<li>
-																<a>17 Lectures</a>
-																<p> <i class="bi bi-card-checklist"></i> Data Migration Techniques
-																	<span class="curricolumn-duration"><i class="bi bi-lock-fill"></i></span>
-																</p>
-															</li>
-															<li>
-																<a>18 Lectures</a>
-																<p> <i class="bi bi-card-checklist"></i> Introduction to Smartforms
-																	<span class="curricolumn-duration"><i class="bi bi-lock-fill"></i></span>
-																</p>
-															</li>
-															<li>
-																<a>19 Lectures</a>
-																<p> <i class="bi bi-card-checklist"></i> Smartforms Part 2
-																	<span class="curricolumn-duration"><i class="bi bi-lock-fill"></i></span>
-																</p>
-															</li>
-															<li>
-																<a>20 Lectures</a>
-																<p> <i class="bi bi-card-checklist"></i> Smartforms Part 3
-																	<span class="curricolumn-duration"><i class="bi bi-lock-fill"></i></span>
-																</p>
-															</li>
-															<li>
-																<a>21 Lectures</a>
-																<p> <i class="bi bi-card-checklist"></i> Introduction to OData Services in ABAP
-																	<span class="curricolumn-duration"><i class="bi bi-lock-fill"></i></span>
-																</p>
-															</li>
-															<li>
-																<a>22 Lectures</a>
-																<p> <i class="bi bi-card-checklist"></i> Features of OData
-																	<span class="curricolumn-duration"><i class="bi bi-lock-fill"></i></span>
-																</p>
-															</li>
-															<li>
-																<a>23 Lectures</a>
-																<p> <i class="bi bi-card-checklist"></i> CRUD Operations in OData
-																	<span class="curricolumn-duration"><i class="bi bi-lock-fill"></i></span>
-																</p>
-															</li>
-															<li>
-																<a>24 Lectures</a>
-																<p> <i class="bi bi-card-checklist"></i> Deep Entity in OData
-																	<span class="curricolumn-duration"><i class="bi bi-lock-fill"></i></span>
-																</p>
-															</li>
-														</ul>
-														<div class="pagination-buttons">
-															<button id="prevBtn">Prev</button>
-															<button id="nextBtn">Next</button>
-														</div>
+													<div class="course-pagination-buttons">
+														<button id="loadMore">Load More Lecture</button>
+														<button id="showLess" style="display: none;">Show Less
+															Lecture</button>
 													</div>
 												</div>
+
+												<div id="videoModal" class="course-video-modal">
+													<div class="course-video-modal-content">
+														<span class="course-close-modal">&times;</span>
+														<iframe id="videoIframe" width="100%" height="400"
+															frameborder="0" allowfullscreen></iframe>
+													</div>
+												</div>
+
+
+
+
+
+
 											</div>
 										</div>
 									</div>
 								</div>
 							</div>
+
+							<!-- ****************************************************** -->
+							<!-- End Curriculum Section -->
+							<!-- ******************************************************* -->
+
+
+
 							<div id="Instructor" class="w3-container city" style="display:none">
 								<div class="course-author-warpper">
 									<div class="course-author-img">
@@ -458,6 +765,107 @@ Master SAP ABAP with Ezylern. Learn ABAP programming through practical, real-tim
 <!-- End courses-details Section  -->
 <!--==================================================-->
 
+
+<!--==================================================-->
+<!-- Start  team Section  -->
+<!--==================================================-->
+
+<div class="team-section-course">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 text-center">
+				<div class="section-title center-title wow fadeInLeft">
+					<h2>Our Most Popular Trainer</h2>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-3 col-md-6">
+				<div class="single-team-box wow fadeInRight">
+					<div class="team-thumb">
+						<img src="assets/images/resource/team_thumb1.png" alt="thumb">
+					</div>
+					<div class="team-content">
+						<h3>Manoj Pandey</h3>
+						<div>
+							<p>SAP Lead Consultant + Trainer</p>
+						</div>
+
+						<div class="team-social-icon">
+							<ul>
+								<li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+								<li><a href="#"><i class="fab fa-youtube"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-3 col-md-6">
+				<div class="single-team-box wow fadeInUp">
+					<div class="team-thumb">
+						<img src="assets/images/resource/team_thumb3.png" alt="thumb">
+					</div>
+					<div class="team-content">
+						<h3>Kumar Sir</h3>
+						<div>
+							<p>SAP Lead Consultant + Trainer</p>
+						</div>
+						<div class="team-social-icon">
+							<ul>
+								<li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+								<li><a href="#"><i class="fab fa-youtube"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-3 col-md-6">
+				<div class="single-team-box wow fadeInDown">
+					<div class="team-thumb">
+						<img src="assets/images/resource/team_thumb2.png" alt="thumb">
+					</div>
+					<div class="team-content">
+						<h3>Amrit Raj</h3>
+						<div>
+							<p>Technical Lead Consultant + Trainer</p>
+						</div>
+						<div class="team-social-icon">
+							<ul>
+								<li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+								<li><a href="#"><i class="fab fa-youtube"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-3 col-md-6">
+				<div class="single-team-box wow fadeInLeft">
+					<div class="team-thumb">
+						<img src="assets/images/resource/team_thumb4.png" alt="thumb">
+					</div>
+					<div class="team-content">
+						<h3>Dinesh Sir</h3>
+						<div>
+							<p>SAP Lead Consultant + Trainer</p>
+						</div>
+						<div class="team-social-icon">
+							<ul>
+								<li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+								<li><a href="#"><i class="fab fa-youtube"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!--==================================================-->
+<!-- End  team Section  -->
+<!--==================================================-->
+
+
 <!--==================================================-->
 <!-- Start Related-course Section  -->
 <!--==================================================-->
@@ -584,82 +992,200 @@ Master SAP ABAP with Ezylern. Learn ABAP programming through practical, real-tim
 <!--==================================================-->
 
 
+
+<!--==================================================-->
+<!-- Start  Certificate Section  -->
+<!--==================================================-->
+
+<div class="certifcate-section">
+	<div class="container">
+		<div class="row align-items-center">
+			<div class="col-lg-6">
+				<div class="courses-details-title wow fadeInRight">
+					<h2>SAP Course Certification</h2>
+					<p><strong>Master SAP Skills & Earn Your SAP Professional Certificate</strong></p>
+				</div>
+				<div class="courses-details-list wow fadeInLeft">
+					<ul>
+						<li><i class="bi bi-check"></i><span>Industry-recognized certificate by Ezy Lern, awarded upon successful course completion.</span></li>
+						<li><i class="bi bi-check"></i><span>Learn from SAP-Certified Trainers and Industry Experts with hands-on training sessions.</span></li>
+						<li><i class="bi bi-check"></i><span>Receive career support and placement guidance to help you step confidently into the SAP job market.</span></li>
+					</ul>
+				</div>
+			</div>
+			<div class="col-lg-6">
+				<div class="testimonial-thumb wow fadeInLeft">
+					<img src="assets/images/resource/abap_certification.webp" alt="certificate">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!--==================================================-->
+<!-- End  Certificate Section  -->
+<!--==================================================-->
+
+
+
 <!--==================================================-->
 <!-- Start Bonus-Card Section  -->
 <!--==================================================-->
 
-<div class="bonus-section">
-	<div class="custom-main-wrapper">
-		<div class="custom-bonus-card custom-bonus-card-1">
-			<h2 class="custom-bonus-title">Bonus 1</h2>
-			<h3 class="custom-bonus-subtitle">Assessment (4 projects)</h3>
 
-			<div class="custom-bonus-image-container">
-				<img src="https://srijaninstitute.com/public/images/vedio/certficatioquestion.jpg" alt="Video Solutions" class="custom-bonus-image" />
-
-			</div>
-			<p class="custom-bonus-price"><span class="custom-original-price">5000 INR </span> <span class="custom-discounted-price">Free</span></p>
-		</div>
-
-		<div class="custom-bonus-card custom-bonus-card-2">
-			<h2 class="custom-bonus-title">Bonus 2</h2>
-			<h3 class="custom-bonus-subtitle">Interview Questions</h3>
-
-			<div class="custom-bonus-image-container">
-				<img src="https://srijaninstitute.com/public/images/vedio/certficatioquestion.jpg" alt="Video Solutions" class="custom-bonus-image" />
-			</div>
-			<p class="custom-bonus-price"><span class="custom-original-price">500 INR</span> <span class="custom-discounted-price">Free</span></p>
-		</div>
-		<a href="https://ezylern.com/job-portal" target="_blank" class="custom-bonus-link">
-			<div class="custom-bonus-card custom-bonus-card-3">
-				<h2 class="custom-bonus-title">Bonus 3</h2>
-				<h3 class="custom-bonus-subtitle"> Configuration Documents </h3>
-
-				<div class="custom-bonus-image-container">
-					<img src="https://srijaninstitute.com/public/images/vedio/configurationdoumnets.jpg" alt="Video Solutions" class="custom-bonus-image" />
+<div class="bonus-categorie-section">
+	<div class="bonus-container container">
+		<div class="bonus-row row">
+			<div class="col-lg-12 text-center">
+				<div class="bonus-section-title center-title wow fadeInLeft">
+					<h2>Bonus Assessment Of SAP SD Course</h2>
 				</div>
-				<p class="custom-bonus-price"><span class="custom-original-price">5000</span> <span class="custom-discounted-price">Free</span></p>
 			</div>
-		</a>
-	</div>
-	<div class="custom-main-wrapper">
-		<div class="custom-bonus-card custom-bonus-card-1">
-			<h2 class="custom-bonus-title">Bonus 4</h2>
-			<h3 class="custom-bonus-subtitle">Cheat Sheet</h3>
-
-			<div class="custom-bonus-image-container">
-				<img src="https://srijaninstitute.com/public/images/vedio/cheat sheet.jpg" alt="Video Solutions" class="custom-bonus-image" />
-			</div>
-			<p class="custom-bonus-price"><span class="custom-original-price">5000 INR </span> <span class="custom-discounted-price">Free</span></p>
 		</div>
+		<div class="bonus-row row bonus-card-assessment">
 
-		<div class="custom-bonus-card custom-bonus-card-2">
-			<h2 class="custom-bonus-title">Bonus 5</h2>
-			<h3 class="custom-bonus-subtitle">Certification (4 Badges)</h3>
+			<!-- Category 1 -->
 
-			<div class="custom-bonus-image-container">
-				<img src="https://srijaninstitute.com/public/images/vedio/digital.jpg" alt="Cheatsheets" class="custom-bonus-image" />
+			<div class="col-lg-3 col-md-6">
+				<div class="bonus-single-categorie-box">
+					<div class="bonus-categorie-img">
+						<img src="assets/images/resource/bonus1.jpg" alt="Bunus Img">
+					</div>
+					<div class="bonus_text_content">
+						<div class="bonus-categorie-content">
+							<h3>Bonus 1</h3>
+							<p>Assessment (4 projects)</p>
+							<span>A collection of sap mm certification questions for exam preparation.</span>
+						</div>
+						<div class="bonus-price-box">
+							<span class="bonus-cut-price">5000 INR</span>
+							<span class="bonus-free-price">Free</span>
+						</div>
+					</div>
+				</div>
 			</div>
-			<p class="custom-bonus-price"><span class="custom-original-price">500 INR</span> <span class="custom-discounted-price">Free</span></p>
-		</div>
+			<!-- Category 2 -->
 
-		<div class="custom-bonus-card custom-bonus-card-3">
-			<h2 class="custom-bonus-title">Bonus 6</h2>
-			<h3 class="custom-bonus-subtitle"> Monthly Q/A Session with Trainers </h3>
-
-			<div class="custom-bonus-image-container">
-				<img src="https://srijaninstitute.com/public/images/vedio/monthlyqa.jpg" alt="Cheatsheets" class="custom-bonus-image" />
+			<div class="col-lg-3 col-md-6">
+				<div class="bonus-single-categorie-box">
+					<div class="bonus-categorie-img">
+						<img src="assets/images/resource/bonus2.jpg" alt="Bunus Img">
+					</div>
+					<div class="bonus_text_content">
+						<div class="bonus-categorie-content">
+							<h3>Bonus 2</h3>
+							<p>Interview Questions</p>
+							<span>A collection of sap mm certification questions for exam preparation.</span>
+						</div>
+						<div class="bonus-price-box">
+							<span class="bonus-cut-price">500 INR</span>
+							<span class="bonus-free-price">Free</span>
+						</div>
+					</div>
+				</div>
 			</div>
-			<p class="custom-bonus-price"><span class="custom-original-price">5000</span> <span class="custom-discounted-price">Free</span></p>
-		</div>
+			<!-- Category 3 -->
 
-		<div class="custom-bonus-card custom-bonus-card-3">
-			<h2 class="custom-bonus-title">Bonus 7</h2>
-			<h3 class="custom-bonus-subtitle"> List Of Company Hiring SAP</h3>
-			<div class="custom-bonus-image-container">
-				<img src="assets/images/resource/bonus_7.png" alt="Cheatsheets" class="custom-bonus-image" />
+			<div class="col-lg-3 col-md-6">
+				<div class="bonus-single-categorie-box">
+					<div class="bonus-categorie-img">
+						<img src="assets/images/resource/bonus3.jpg" alt="Bunus Img">
+					</div>
+					<div class="bonus_text_content">
+						<div class="bonus-categorie-content">
+							<h3>Bonus 3</h3>
+							<p> Configuration Documents </p>
+							<span>Detailed guides covering essential sap mm configurations..</span>
+						</div>
+						<div class="bonus-price-box">
+							<span class="bonus-cut-price">5000 INR</span>
+							<span class="bonus-free-price">Free</span>
+						</div>
+					</div>
+				</div>
 			</div>
-			<p class="custom-bonus-price"><span class="custom-original-price">5000</span> <span class="custom-discounted-price">Free</span></p>
+			<!-- Category 4 -->
+
+			<div class="col-lg-3 col-md-6">
+				<div class="bonus-single-categorie-box">
+					<div class="bonus-categorie-img">
+						<img src="assets/images/resource/bonus4.jpg" alt="Bunus Img">
+					</div>
+					<div class="bonus_text_content">
+						<div class="bonus-categorie-content">
+							<h3>Bonus 4</h3>
+							<p>Cheat Sheet</p>
+							<span>A handy guide summarizing key sap mm concepts and t-codes.</span>
+						</div>
+						<div class="bonus-price-box">
+							<span class="bonus-cut-price">5000 INR</span>
+							<span class="bonus-free-price">Free</span>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- Category 5 -->
+
+			<div class="col-lg-3 col-md-6">
+				<div class="bonus-single-categorie-box">
+					<div class="bonus-categorie-img">
+						<img src="assets/images/resource/bonus5.jpg" alt="Bunus Img">
+					</div>
+					<div class="bonus_text_content">
+						<div class="bonus-categorie-content">
+							<h3>Bonus 5</h3>
+							<p>Certification (4 Badges)</p>
+							<span>Earn a certification and badge to showcase your expertise.</span>
+						</div>
+						<div class="bonus-price-box">
+							<span class="bonus-cut-price">500 INR</span>
+							<span class="bonus-free-price">Free</span>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- Category 6 -->
+
+			<div class="col-lg-3 col-md-6">
+				<div class="bonus-single-categorie-box">
+					<div class="bonus-categorie-img">
+						<img src="assets/images/resource/bonus6.jpg" alt="Bunus Img">
+					</div>
+					<div class="bonus_text_content">
+						<div class="bonus-categorie-content">
+							<h3>Bonus 6</h3>
+							<p>Monthly Q/A Session with Trainers</p>
+							<span>Live q&a sessions for doubt resolution and expert insights.</span>
+						</div>
+						<div class="bonus-price-box">
+							<span class="bonus-cut-price">5000 INR</span>
+							<span class="bonus-free-price">Free</span>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- Category 7 -->
+
+			<div class="col-lg-3 col-md-6">
+				<div class="bonus-single-categorie-box">
+					<div class="bonus-categorie-img">
+						<img src="assets/images/resource/bonus7.png" alt="Bunus Img">
+					</div>
+					<div class="bonus_text_content">
+						<div class="bonus-categorie-content">
+							<h3>Bonus 7</h3>
+							<p>List Of Company Hiring SAP</p>
+							<span> Companies currently hiring sap professionals
+							</span>
+						</div>
+						<div class="bonus-price-box">
+							<span class="bonus-cut-price">5000 INR</span>
+							<span class="bonus-free-price">Free</span>
+						</div>
+					</div>
+				</div>
+			</div>
+
 		</div>
 	</div>
 </div>
@@ -669,86 +1195,237 @@ Master SAP ABAP with Ezylern. Learn ABAP programming through practical, real-tim
 <!--==================================================-->
 
 
+
 <!--==================================================-->
-<!-- FAQ Section  -->
+<!-- Start  Student Testimonial Section  -->
 <!--==================================================-->
 
 
-<div class="faq-section up">
+<div class="Student-review-section">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12 text-center">
 				<div class="section-title center-title wow fadeInLeft">
-					<h5>FAQ QUESTIONS</h5>
-					<h1>Get Complete ABAP Common Answers From Here</h1>
+					<h2> Students Testimonials</h2>
 				</div>
 			</div>
 		</div>
+		<div class="row">
+			<div class="testi-list owl-carousel">
+				<div class="col-lg-12">
+					<div class="single-testimonial-box">
+						<div class="testimonial-content">
+							<div class="testi-desc">
+								<p>"I had no idea of coding, but this course made it super easy. The instructor explained everything very well." </p>
+							</div>
+							<div class="testi-people">
+							</div>
+							<div class="testi-people-name">
+								<p>Kuldeep Kulkarni</p>
+								<div class="testi-star-icon">
+									<p><i class="bi bi-star-fill"></i></p>
+									<p><i class="bi bi-star-fill"></i></p>
+									<p><i class="bi bi-star-fill"></i></p>
+									<p><i class="bi bi-star-fill"></i></p>
+									<p><i class="bi bi-star-fill"></i></p>
+								</div>
+							</div>
+							<div class="testi-shape">
+								<img src="assets/images/resource/quote-shape.png" alt="shape">
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-12">
+					<div class="single-testimonial-box">
+						<div class="testimonial-content">
+							<div class="testi-desc">
+								<p>"The best part was practicing on a real SAP system. I felt like I was working in a real company." </p>
+							</div>
+							<div class="testi-people">
+							</div>
+							<div class="testi-people-name">
+								<p>Amrita Naidu</p>
+								<div class="testi-star-icon">
+									<p><i class="bi bi-star-fill"></i></p>
+									<p><i class="bi bi-star-fill"></i></p>
+									<p><i class="bi bi-star-fill"></i></p>
+									<p><i class="bi bi-star-fill"></i></p>
+									<p><i class="bi bi-star-fill"></i></p>
+								</div>
+							</div>
+							<div class="testi-shape">
+								<img src="assets/images/resource/quote-shape.png" alt="shape">
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-12">
+					<div class="single-testimonial-box">
+						<div class="testimonial-content">
+							<div class="testi-desc">
+								<p>"I loved the live sessions and the support team who were there to guide me on everything. " </p>
+							</div>
+							<div class="testi-people">
+							</div>
+							<div class="testi-people-name">
+								<p>Harshita K</p>
+								<div class="testi-star-icon">
+									<p><i class="bi bi-star-fill"></i></p>
+									<p><i class="bi bi-star-fill"></i></p>
+									<p><i class="bi bi-star-fill"></i></p>
+									<p><i class="bi bi-star-fill"></i></p>
+									<p><i class="bi bi-star-fill"></i></p>
+								</div>
+							</div>
+							<div class="testi-shape">
+								<img src="assets/images/resource/quote-shape.png" alt="shape">
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-12">
+					<div class="single-testimonial-box">
+						<div class="testimonial-content">
+							<div class="testi-desc">
+								<p>"This course gave me a lot of confidence, and the certificate helped me apply for jobs." </p>
+							</div>
+							<div class="testi-people">
+							</div>
+							<div class="testi-people-name">
+								<p>Shweta Mehta</p>
+								<div class="testi-star-icon">
+									<p><i class="bi bi-star-fill"></i></p>
+									<p><i class="bi bi-star-fill"></i></p>
+									<p><i class="bi bi-star-fill"></i></p>
+									<p><i class="bi bi-star-fill"></i></p>
+									<p><i class="bi bi-star-fill"></i></p>
+								</div>
+							</div>
+							<div class="testi-shape">
+								<img src="assets/images/resource/quote-shape.png" alt="shape">
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-12">
+					<div class="single-testimonial-box">
+						<div class="testimonial-content">
+							<div class="testi-desc">
+								<p>"I enjoyed quizzes and real-world examples. I learned a lot and had fun too. " </p>
+							</div>
+							<div class="testi-people">
+							</div>
+							<div class="testi-people-name">
+								<p>Manoj Agrawal</p>
+								<div class="testi-star-icon">
+									<p><i class="bi bi-star-fill"></i></p>
+									<p><i class="bi bi-star-fill"></i></p>
+									<p><i class="bi bi-star-fill"></i></p>
+									<p><i class="bi bi-star-fill"></i></p>
+									<p><i class="bi bi-star-fill"></i></p>
+								</div>
+							</div>
+							<div class="testi-shape">
+								<img src="assets/images/resource/quote-shape.png" alt="shape">
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+</div>
+
+<!--==================================================-->
+<!-- End Student Testimonial Section  -->
+<!--==================================================-->
+
+
+
+
+<!--==================================================-->
+<!-- FAQ Section  -->
+<!--==================================================-->
+
+<div class="course-faq-section up">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 text-center">
+				<div class="course-faq-section-title center-title wow fadeInLeft">
+					<h2>Frequently Asked Questions</h2>
+				</div>
+			</div>
+		</div>
+
 		<div class="row">
 			<div class="col-lg-12">
 				<div id="Home" class="tabcontent">
 					<div class="row">
 						<div class="col-lg-6 col-md-6">
-							<!-- Start Accordion -->
-							<div id="tab1" class="tab_content">
-								<ul class="accordion wow fadeInLeft">
+							<div id="tab1" class="course-faq-tab_content">
+								<ul class="course-faq-accordion wow fadeInLeft">
 									<li>
-										<a class=""><span>What is SAP ABAP? </span></a>
-										<p style="display: none;">SAP ABAP (Advanced Business Application Programming) is a programming language developed by SAP for building applications on the SAP R/3 system. It is primarily used for developing reports, interfaces, forms, and enhancements within the SAP ecosystem.</p>
+										<h3>What does your Complete SAP ABAP course cover from beginner to advanced?</h3>
+										<p>The course teaches everything from basic to advanced ABAP, including coding, reports, forms, and modern topics. </p>
 									</li>
 									<li>
-										<a class=""><span>What are Smart Forms in SAP ABAP?</span></a>
-										<p style="display: none;">Smart Forms are used to create and maintain forms for printing in SAP systems. They provide a graphical interface for designing forms and support output to printers, emails, faxes, or the internet.</p>
+										<h3>Is this SAP ABAP course hands-on with coding exercises and real projects?</h3>
+										<p>Yes, you will do coding exercises and real SAP projects to learn.</p>
 									</li>
 									<li>
-										<a><span>What is the purpose of the Data Dictionary in ABAP?</span></a>
-										<p>The Data Dictionary (DDIC) is a central repository in SAP that defines and manages data definitions such as tables, views, data elements, domains, and indexes. It ensures data consistency and integrity across the system.</p>
+										<h3>Can I learn SAP ABAP online without prior programming knowledge? </h3>
+										<p>Yes, you can learn this course even if you have never done programming before. </p>
 									</li>
 									<li>
-										<a><span>What is a BAPI?</span></a>
-										<p>A BAPI (Business Application Programming Interface) is a standardized programming interface that allows external applications to access business processes and data in SAP systems.</p>
+										<h3>Does the SAP ABAP course include topics like CDS Views, OData, and RAP?</h3>
+										<p>Yes, it covers CDS views, OData, and RAP for building smart apps.</p>
+									</li>
+									<li>
+										<h3>How is this course different from other SAP ABAP online training options?</h3>
+										<p>This course is easy to understand, beginner-friendly, and gives more practice than many other training.</p>
 									</li>
 								</ul>
 							</div>
-							<!-- End Accordion -->
 						</div>
 						<div class="col-lg-6 col-md-6">
-							<!-- Start Accordion -->
-							<div id="tab2" class="tab_content">
-								<ul class="accordion wow fadeInRight">
+							<div id="tab2" class="course-faq-tab_content">
+								<ul class="course-faq-accordion wow fadeInRight">
 									<li>
-										<a class=""><span>What is an IDoc in SAP ABAP?</span></a>
-										<p style="display: none;">An IDoc (Intermediate Document) is a standard data structure used for electronic data interchange between SAP and external systems. It facilitates the exchange of business data in a structured format.</p>
+										<h3>What is the duration of the course?</h3>
+										<p> The course can be completed in 6-8 weeks with regular study and practice.</p>
 									</li>
 									<li>
-										<a class=""><span> Explain the use of ALV in ABAP? </span></a>
-										<p style="display: none;">ALV (ABAP List Viewer) is a tool for displaying data in a tabular format with features like sorting, filtering, and totaling. It enhances the user experience by providing interactive and formatted reports.</p>
+										<h3>Will I get a certificate after completion?</h3>
+										<p> Yes, you will get certification at the end of the course, which will add value to your resume.</p>
 									</li>
 									<li>
-										<a><span>What are Data Elements in ABAP?</span></a>
-										<p>Data Elements define the properties of a field (such as its type, length, and domain). It is a metadata object in the SAP Data Dictionary and is used to define fields in tables, structures, views, and so on.</p>
+										<h3> Is there any support if I get stuck?</h3>
+										<p>Yes, you will get access to 24/7 assistance, which will help you with your problem. </p>
 									</li>
 									<li>
-										<a><span> What is the significance of NO-GAP in SAP ABAP?</span></a>
-										<p>NO-GAP is used in the context of the ALV Grid display to ensure that there is no gap in the columns when they are displayed. It is particularly useful when working with dynamic data where columns should align properly.</p>
+										<h3>Is this course suitable for freshers?</h3>
+										<p>Yes, freshers and beginners can easily learn and grow.</p>
+									</li>
+									<li>
+										<h3>Will I learn real-time project skills?</h3>
+										<p>Yes, the course covers real-time examples of big companies to make you understand better. </p>
 									</li>
 								</ul>
 							</div>
-							<!-- End Accordion -->
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-
-	<!--==================================================-->
-	<!-- End FAQ Section  -->
-	<!--==================================================-->
+</div>
 
 
-
-
+<!--==================================================-->
+<!-- End FAQ Section  -->
+<!--==================================================-->
 
 
 
@@ -758,219 +1435,365 @@ Master SAP ABAP with Ezylern. Learn ABAP programming through practical, real-tim
 
 
 
-	<!--==================================================-->
-	<!-- Start Search Popup Area -->
-	<!--==================================================-->
-
-	<div class="search-popup">
-		<button class="close-search style-two"><i class="fas fa-times"></i></button>
-		<button class="close-search"><i class="fas fa-arrow-up"></i></button>
-		<form method="post" action="#">
-			<div class="form-group">
-				<input type="search" name="search-field" value="" placeholder="Search Here" required="">
-				<button type="submit"><i class="fas fa-search"></i></button>
-			</div>
-		</form>
-	</div>
-
-	<!--==================================================-->
-	<!-- End Search Popup Area -->
-	<!--==================================================-->
 
 
 
 
 
-	<!--==================================================-->
-	<!-- Start scrollup section Section -->
-	<!--==================================================-->
+<!--==================================================-->
+<!-- Start Search Popup Area -->
+<!--==================================================-->
 
-	<div class="prgoress_indicator active-progress">
-		<svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
-			<path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" style="transition: stroke-dashoffset 10ms linear 0s; stroke-dasharray: 307.919, 307.919; stroke-dashoffset: 270.456;"></path>
-		</svg>
-	</div>
+<div class="search-popup">
+	<button class="close-search style-two"><i class="fas fa-times"></i></button>
+	<button class="close-search"><i class="fas fa-arrow-up"></i></button>
+	<form method="post" action="#">
+		<div class="form-group">
+			<input type="search" name="search-field" value="" placeholder="Search Here" required="">
+			<button type="submit"><i class="fas fa-search"></i></button>
+		</div>
+	</form>
+</div>
 
-	<!--==================================================-->
-	<!-- Start scrollup section Section -->
-	<!--==================================================-->
+<!--==================================================-->
+<!-- End Search Popup Area -->
+<!--==================================================-->
 
 
 
-	<script>
-		function openCity(cityName) {
-			var i;
-			var x = document.getElementsByClassName("city");
-			for (i = 0; i < x.length; i++) {
-				x[i].style.display = "none";
-			}
-			document.getElementById(cityName).style.display = "block";
+
+
+<!--==================================================-->
+<!-- Start scrollup section Section -->
+<!--==================================================-->
+
+<div class="prgoress_indicator active-progress">
+	<svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+		<path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" style="transition: stroke-dashoffset 10ms linear 0s; stroke-dasharray: 307.919, 307.919; stroke-dashoffset: 270.456;"></path>
+	</svg>
+</div>
+
+<!--==================================================-->
+<!-- Start scrollup section Section -->
+<!--==================================================-->
+
+
+
+<script>
+	function openCity(cityName) {
+		var i;
+		var x = document.getElementsByClassName("city");
+		for (i = 0; i < x.length; i++) {
+			x[i].style.display = "none";
 		}
-	</script>
+		document.getElementById(cityName).style.display = "block";
+	}
+</script>
 
 
-	<script>
-		//curseer animation
-		var curser = document.querySelector(".curser");
-		var curser2 = document.querySelector(".curser2");
-		document.addEventListener("mousemove", function(e) {
-			curser.style.cssText = curser2.style.cssText = "left: " + e.clientX + "px; top: " + e.clientY + "px;";
+<script>
+	//curseer animation
+	var curser = document.querySelector(".curser");
+	var curser2 = document.querySelector(".curser2");
+	document.addEventListener("mousemove", function(e) {
+		curser.style.cssText = curser2.style.cssText = "left: " + e.clientX + "px; top: " + e.clientY + "px;";
+	});
+</script>
+
+<!--*********************Start YouTube Video Script****************** -->
+<script>
+	document.addEventListener("click", (e) => {
+
+		if (e.target.classList.contains("clm-prv")) {
+			const videoUrl = e.target.getAttribute("data-video-url");
+			const iframe = document.getElementById("videoIframe");
+			const modal = document.getElementById("videoModal");
+
+			iframe.src = videoUrl;
+			modal.style.display = "flex";
+		}
+
+
+		if (e.target.id === "closePreview" || e.target.id === "videoModal") {
+			const iframe = document.getElementById("videoIframe");
+			const modal = document.getElementById("videoModal");
+
+
+			iframe.src = "";
+			modal.style.display = "none";
+		}
+	});
+</script>
+
+<!--*********************End YouTube Video Script****************** -->
+
+
+
+<!-- start reviews javascript -->
+<script>
+	
+	const externalRatings = {
+		5: 18,
+		4: 4,
+		3: 2,
+		2: 1,
+		1: 0
+	};
+
+	// User rating saved locally (1 vote only)
+	let userRating = parseInt(localStorage.getItem("userRating")) || null;
+
+	// Track user's vote
+	const internalRatings = {
+		5: userRating === 5 ? 1 : 0,
+		4: userRating === 4 ? 1 : 0,
+		3: userRating === 3 ? 1 : 0,
+		2: userRating === 2 ? 1 : 0,
+		1: userRating === 1 ? 1 : 0
+	};
+
+	// Merge user rating with backend ratings
+	function getCombinedRatings() {
+		const combined = {};
+		for (let i = 1; i <= 5; i++) {
+			combined[i] = (externalRatings[i] || 0) + (internalRatings[i] || 0);
+		}
+		return combined;
+	}
+
+	// Update star UI and progress bars
+	function updateReviewLayout() {
+		const ratings = getCombinedRatings();
+		const total = Object.values(ratings).reduce((a, b) => a + b, 0);
+		const totalScore = Object.entries(ratings).reduce((sum, [star, count]) => sum + (star * count), 0);
+		const avg = total > 0 ? (totalScore / total).toFixed(1) : "0.0";
+
+		document.getElementById("averageRating").textContent = avg;
+		document.getElementById("reviewCount").textContent = `(${total} Reviews)`;
+
+		// Fill stars based on user selection
+		const stars = document.querySelectorAll("#starIcons i");
+		stars.forEach((star, index) => {
+			star.className = userRating && index < userRating ? "bi bi-star-fill" : "bi bi-star";
 		});
-	</script>
 
-	<!--*********************Start YouTube Video Script****************** -->
-	<script>
-		document.addEventListener("click", (e) => {
+		// Update each progress bar
+		document.querySelectorAll(".single-progress-bar").forEach(bar => {
+			const star = bar.getAttribute("data-stars");
+			const count = ratings[star];
+			const percent = total > 0 ? (count / total) * 100 : 0;
 
-			if (e.target.classList.contains("clm-prv")) {
-				const videoUrl = e.target.getAttribute("data-video-url");
-				const iframe = document.getElementById("videoIframe");
-				const modal = document.getElementById("videoModal");
+			bar.querySelector(".progress-bar").style.width = percent + "%";
+			bar.querySelector(".rating-value").textContent = count;
+		});
+	}
 
-				iframe.src = videoUrl;
-				modal.style.display = "flex";
-			}
+	// Handle star clicks
+	document.querySelectorAll("#starIcons i").forEach(star => {
+		star.addEventListener("click", () => {
+			const newRating = parseInt(star.getAttribute("data-star"));
+
+			// Clear old rating
+			if (userRating) internalRatings[userRating] = 0;
+
+			// Set new rating
+			internalRatings[newRating] = 1;
+			userRating = newRating;
+
+			// Save to localStorage
+			localStorage.setItem("userRating", userRating.toString());
+
+			updateReviewLayout();
+		});
+	});
+
+	// Initial update
+	updateReviewLayout();
+</script>
+<!-- end reviews javascript -->
+
+<!--*********************Start FAQ Script****************** -->
 
 
-			if (e.target.id === "closePreview" || e.target.id === "videoModal") {
-				const iframe = document.getElementById("videoIframe");
-				const modal = document.getElementById("videoModal");
+<script>
+	document.addEventListener("DOMContentLoaded", () => {
+		const headers = document.querySelectorAll(".course-faq-accordion h3");
+
+		function closeAllParagraphs() {
+			document.querySelectorAll(".course-faq-accordion h3").forEach(h => h.classList.remove("active"));
+			document.querySelectorAll(".course-faq-accordion p").forEach(p => {
+				p.classList.remove("show");
+				p.style.maxHeight = null;
+			});
+		}
+
+		headers.forEach(header => {
+			header.addEventListener("click", () => {
+				const isActive = header.classList.contains("active");
+				const content = header.nextElementSibling;
+
+				// Close all first
+				closeAllParagraphs();
+
+				if (!isActive) {
+					header.classList.add("active");
+					content.classList.add("show");
+
+					// Get scrollHeight and set maxHeight to enable smooth transition
+					const fullHeight = content.scrollHeight + "px";
+					content.style.maxHeight = fullHeight;
+				}
+			});
+		});
+
+		// Optional: Equal height for all h3 based on tallest one
+		function setEqualHeadingHeight() {
+			let maxHeight = 0;
+
+			headers.forEach(h => {
+				h.style.height = 'auto'; // Reset first
+				const height = h.scrollHeight;
+				if (height > maxHeight) maxHeight = height;
+			});
+
+			headers.forEach(h => h.style.height = maxHeight + "px");
+		}
+
+		setEqualHeadingHeight();
+
+		window.addEventListener("resize", () => {
+			clearTimeout(window.resizeTimeout);
+			window.resizeTimeout = setTimeout(setEqualHeadingHeight, 100);
+		});
+	});
+</script>
 
 
-				iframe.src = "";
-				modal.style.display = "none";
+<!--*********************End FAQ Script****************** -->
+
+
+<!--*********************Bonus Javascript****************** -->
+
+<script>
+	function setEqualHeight() {
+		const boxes = document.querySelectorAll('.bonus-single-categorie-box');
+		let maxHeight = 0;
+
+		boxes.forEach(box => {
+			box.style.height = "auto"; // reset first
+			if (box.offsetHeight > maxHeight) {
+				maxHeight = box.offsetHeight;
 			}
 		});
-	</script>
 
-	<!--*********************End YouTube Video Script****************** -->
+		boxes.forEach(box => {
+			box.style.height = maxHeight + "px";
+		});
+	}
 
+	window.addEventListener("load", function() {
+		// Wait for layout/rendering cycle
+		requestAnimationFrame(() => {
+			setTimeout(setEqualHeight, 100); // 100ms buffer for content to appear
+		});
+	});
 
-	<!--*********************Next Preview Button Scricpt****************** -->
+	window.addEventListener("resize", setEqualHeight);
+</script>
 
-	<script>
-		const listItems = document.querySelectorAll('#lectureList li');
-		const itemsPerPage = 4;
-		let currentPage = 0;
+<!--*********************Bonus Javascript****************** -->
 
-		const prevBtn = document.getElementById('prevBtn');
-		const nextBtn = document.getElementById('nextBtn');
+<!--*********************Curriculum Javascript****************** -->
+<script>
+	document.addEventListener("DOMContentLoaded", () => {
+		const allItems = document.querySelectorAll("#lectureList li");
+		const loadMoreBtn = document.getElementById("loadMore");
+		const showLessBtn = document.getElementById("showLess");
+		let visibleCount = 10;
 
-		function updateVisibility() {
-			listItems.forEach((li, index) => {
-				li.classList.remove('visible');
-				if (index >= currentPage * itemsPerPage && index < (currentPage + 1) * itemsPerPage) {
-					li.classList.add('visible');
+		updateVisibleItems();
+
+		function updateVisibleItems() {
+			allItems.forEach((li, index) => {
+				if (index < visibleCount) {
+					li.classList.add("show");
+				} else {
+					li.classList.remove("show");
+					li.classList.remove("open");
 				}
 			});
 
-			// Disable buttons accordingly
-			prevBtn.disabled = currentPage === 0;
-			nextBtn.disabled = (currentPage + 1) * itemsPerPage >= listItems.length;
+			loadMoreBtn.style.display = visibleCount < allItems.length ? "inline-block" : "none";
+			showLessBtn.style.display = visibleCount > 10 ? "inline-block" : "none";
 		}
 
-		prevBtn.addEventListener('click', () => {
-			if (currentPage > 0) {
-				currentPage--;
-				updateVisibility();
+		loadMoreBtn.addEventListener("click", () => {
+			visibleCount = allItems.length;
+			updateVisibleItems();
+		});
+		showLessBtn.addEventListener("click", () => {
+			document.getElementById("lectureList").scrollIntoView({
+				behavior: "smooth",
+				block: "start"
+			});
+			setTimeout(() => {
+				visibleCount = 10;
+				updateVisibleItems();
+			}, 400);
+		});
+		document.querySelectorAll(".course-accordion li").forEach(item => {
+			const header = item.querySelector("a");
+
+			if (header) {
+				header.addEventListener("click", (e) => {
+					e.preventDefault();
+					const isOpen = item.classList.contains("open");
+
+					document.querySelectorAll(".course-accordion li").forEach(li => {
+						li.classList.remove("open");
+					});
+					if (!isOpen) {
+						item.classList.add("open");
+					}
+				});
 			}
 		});
+	});
+</script>
 
-		nextBtn.addEventListener('click', () => {
-			if ((currentPage + 1) * itemsPerPage < listItems.length) {
-				currentPage++;
-				updateVisibility();
-			}
-		});
+<!--*********************Curriculum Javascript****************** -->
 
-		updateVisibility();
-	</script>
+<!--*********************Start YouTube Video Script****************** -->
 
+<script>
+    document.addEventListener("click", (e) => {
+        // ✅ Handle preview click
+        if (e.target.classList.contains("clm-prv") || e.target.classList.contains("course-clm-prv")) {
+            const videoUrl = e.target.getAttribute("data-video-url");
+            const iframe = document.getElementById("videoIframe");
+            const modal = document.getElementById("videoModal");
 
-	<!-- start reviews javascript -->
-	<script>
-		// Admin/backend-provided fixed ratings
-		const externalRatings = {
-			5: 18,
-			4: 4,
-			3: 2,
-			2: 1,
-			1: 0
-		};
+            if (videoUrl && iframe && modal) {
+                iframe.src = videoUrl;
+                modal.style.display = "flex";
+            }
+        }
 
-		// User rating saved locally (1 vote only)
-		let userRating = parseInt(localStorage.getItem("userRating")) || null;
+        // ✅ Handle close via cross or outside click
+        if (
+            e.target.id === "closePreview" ||
+            e.target.id === "videoModal"
+        ) {
+            const iframe = document.getElementById("videoIframe");
+            const modal = document.getElementById("videoModal");
 
-		// Track user's vote
-		const internalRatings = {
-			5: userRating === 5 ? 1 : 0,
-			4: userRating === 4 ? 1 : 0,
-			3: userRating === 3 ? 1 : 0,
-			2: userRating === 2 ? 1 : 0,
-			1: userRating === 1 ? 1 : 0
-		};
+            if (iframe && modal) {
+                iframe.src = "";
+                modal.style.display = "none";
+            }
+        }
+    });
+</script>
+<!--*********************End YouTube Video Script****************** -->
 
-		// Merge user rating with backend ratings
-		function getCombinedRatings() {
-			const combined = {};
-			for (let i = 1; i <= 5; i++) {
-				combined[i] = (externalRatings[i] || 0) + (internalRatings[i] || 0);
-			}
-			return combined;
-		}
-
-		// Update star UI and progress bars
-		function updateReviewLayout() {
-			const ratings = getCombinedRatings();
-			const total = Object.values(ratings).reduce((a, b) => a + b, 0);
-			const totalScore = Object.entries(ratings).reduce((sum, [star, count]) => sum + (star * count), 0);
-			const avg = total > 0 ? (totalScore / total).toFixed(1) : "0.0";
-
-			document.getElementById("averageRating").textContent = avg;
-			document.getElementById("reviewCount").textContent = `(${total} Reviews)`;
-
-			// Fill stars based on user selection
-			const stars = document.querySelectorAll("#starIcons i");
-			stars.forEach((star, index) => {
-				star.className = userRating && index < userRating ? "bi bi-star-fill" : "bi bi-star";
-			});
-
-			// Update each progress bar
-			document.querySelectorAll(".single-progress-bar").forEach(bar => {
-				const star = bar.getAttribute("data-stars");
-				const count = ratings[star];
-				const percent = total > 0 ? (count / total) * 100 : 0;
-
-				bar.querySelector(".progress-bar").style.width = percent + "%";
-				bar.querySelector(".rating-value").textContent = count;
-			});
-		}
-
-		// Handle star clicks
-		document.querySelectorAll("#starIcons i").forEach(star => {
-			star.addEventListener("click", () => {
-				const newRating = parseInt(star.getAttribute("data-star"));
-
-				// Clear old rating
-				if (userRating) internalRatings[userRating] = 0;
-
-				// Set new rating
-				internalRatings[newRating] = 1;
-				userRating = newRating;
-
-				// Save to localStorage
-				localStorage.setItem("userRating", userRating.toString());
-
-				updateReviewLayout();
-			});
-		});
-
-		// Initial update
-		updateReviewLayout();
-	</script>
-	<!-- end reviews javascript -->
-
-
-
-
-	@endsection
+@endsection

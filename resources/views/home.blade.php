@@ -1020,136 +1020,149 @@
 <div class="webinar-section">
 	<div class="container">
 		<div class="row">
-			   <div class="webinar-fixed-wrapper">
-      <div class="webinar-fixed-heading">
-		<h2>Upcoming Webinar</h2>
-	  </div>
-      <div class="webinar-fixed-top-section">
-        <h3>
-          Live Online Classroom <span class="webinar-badge">PREFERRED</span>
-        </h3>
-        <div class="webinar-features">
-          <span>Everything in Self-Paced Plus</span>
-          <span>Mentoring by Award Winning Trainers</span>
-          <span>1-Year Gold Membership</span>
-          <span>Attend Unlimited Live Sessions</span>
-          <span>Flexible Schedule</span>
-          <span>Weekly Bootcamp Sessions</span>
-          <span>Get Recordings of All Batches</span>
-        </div>
-      </div>
+			<div class="webinar-fixed-wrapper">
+				<div class="webinar-fixed-heading">
+					<h2>Upcoming Webinar</h2>
+				</div>
+				<div class="webinar-fixed-top-section">
+					<h3>
+						Live Online Webinar <span class="webinar-badge">PREFERRED</span>
+					</h3>
+					<div class="webinar-features">
+						<p>Everything in Self-Paced Plus</p>
+						<p>Mentoring by Award Winning Trainers</p>
+						<p>1-Year Gold Membership</p>
+						<p>Attend Unlimited Live Sessions</p>
+						<p>Flexible Schedule</p>
+						<p>Weekly Bootcamp Sessions</p>
+						<p>Get Recordings of All Batches</p>
+					</div>
+				</div>
 
-      <div class="webinar-scrollable-section">
-        <h3>Post Graduate Program In French Language - Job Guarantee Program</h3>
-        <table class="webinar-table-main">
-          <tr class="webinar-table">
-            <th>Starts</th>
-            <th>Mode</th>
-            <th>Timing</th>
-            <th>Status</th>
-          </tr>
-          <tr class="webinar-table">
-            <td>Starts Every Week</td>
-            <td>Live Virtual Classroom</td>
-            <td class="webinar-filling-fast">⚡ Filling Fast</td>
-            <td><button class="webinar-enroll-btn" onclick="openPopup()">ENROLL NOW</button></td>
-          </tr>
-        </table>
+				<div class="webinar-scrollable-section">
+					<div class="course-trainer-name">
+						<div class="webinar-heading">
+							<h3>SAP MM - Materials Management</h3>
+						</div>
+						<table class="webinar-table-main">
+							<tr class="webinar-table">
+								<th>Starts Every Month</th>
+								<th>Trainer Name</th>
+								<th>Timing</th>
+								<th>Filling Fast</th>
+							</tr>
+							<tr class="webinar-table">
+								<td>Starts Every Month</td>
+								<td>Mr. Manoj Pandey</td>
+								<td>8:00PM–10:00PM <br /><span style="color: green">Registration Open</span></td>
+								<!-- <td class="webinar-filling-fast">⚡ Timing</td> -->
+								<td><button class="webinar-enroll-btn" onclick="openPopup()">ENROLL NOW</button></td>
+							</tr>
+						</table>
+					</div>
 
-        <div class="webinar-heading">
-			<h3>French Language A1 Level Course </h3>
-		</div>
-        <table class="webinar-table-main">
-          <tr class="webinar-table">
-            <th>Starts</th>
-            <th>Mode</th>
-            <th>Timing</th>
-            <th>Status</th>
-          </tr>
-          <tr class="webinar-table">
-            <td>Starts Every Week</td>
-            <td>Live Virtual Classroom</td>
-            <td class="webinar-filling-fast">⚡ Filling Fast</td>
-            <td><button class="webinar-enroll-btn" onclick="openPopup()">ENROLL NOW</button></td>
-          </tr>
-          <!-- Repeatable row -->
-          <tr class="webinar-table">
-            <td>11 June 2025 🛈<br /><small>Weekday Batch</small></td>
-            <td>Instructor-Led Live Online</td>
-            <td>8:00PM–10:00PM <br /><span style="color: green">Registration Open</span></td>
-            <td><button class="webinar-enroll-btn" onclick="openPopup()">ENROLL NOW</button></td>
-          </tr>
-          <tr class="webinar-table">
-            <td>11 June 2025 🛈<br /><small>Weekday Batch</small></td>
-            <td>Instructor-Led Live Online</td>
-            <td>8:00PM–10:00PM <br /><span style="color: green">Registration Open</span></td>
-            <td><button class="webinar-enroll-btn" onclick="openPopup()">ENROLL NOW</button></td>
-          </tr>
-          <tr class="webinar-table">
-            <td>11 June 2025 🛈<br /><small>Weekday Batch</small></td>
-            <td>Instructor-Led Live Online</td>
-            <td>8:00PM–10:00PM <br /><span style="color: green">Registration Open</span></td>
-            <td><button class="webinar-enroll-btn" onclick="openPopup()">ENROLL NOW</button></td>
-          </tr>
-          <tr class="webinar-table">
-            <td>11 June 2025 🛈<br /><small>Weekday Batch</small></td>
-            <td>Instructor-Led Live Online</td>
-            <td>8:00PM–10:00PM <br /><span style="color: green">Registration Open</span></td>
-            <td><button class="webinar-enroll-btn" onclick="openPopup()">ENROLL NOW</button></td>
-          </tr>
-          <tr class="webinar-table">
-            <td>11 June 2025 🛈<br /><small>Weekday Batch</small></td>
-            <td>Instructor-Led Live Online</td>
-            <td>8:00PM–10:00PM <br /><span style="color: green">Registration Open</span></td>
-            <td><button class="webinar-enroll-btn" onclick="openPopup()">ENROLL NOW</button></td>
-          </tr>
-          <tr class="webinar-table">
-            <td>11 June 2025 🛈<br /><small>Weekday Batch</small></td>
-            <td>Instructor-Led Live Online</td>
-            <td>8:00PM–10:00PM <br /><span style="color: green">Registration Open</span></td>
-            <td><button class="webinar-enroll-btn" onclick="openPopup()">ENROLL NOW</button></td>
-          </tr>
-        </table>
-      </div>
-    </div>
+					<div class="course-trainer-name">
+						<div class="course-trainer-name">
+							<div class="webinar-heading">
+								<h3>SAP ABAP - Advanced Business Application Programming </h3>
+							</div>
+							<table class="webinar-table-main">
+								<tr class="webinar-table">
+									<th>Starts Every Month</th>
+									<th>Trainer Name</th>
+									<th>Timing</th>
+									<th>Filling Fast</th>
+								</tr>
+								<tr class="webinar-table">
+									<td>Starts Every Month</td>
+									<td>Mr. Amrit Raj</td>
+									<td>8:00PM–10:00PM <br /><span style="color: green">Registration Open</span></td>
+									<!-- <td class="webinar-filling-fast">⚡ Filling Fast</td> -->
+									<td><button class="webinar-enroll-btn" onclick="openPopup()">ENROLL NOW</button></td>
+								</tr>
+							</table>
+						</div>
+					</div>
 
-    <!-- POPUP -->
-    <div class="webinar-popup" id="webinar-popup">
-      <div class="webinar-popup-content">
-        <button class="webinar-close-btn" onclick="closePopup()">&times;</button>
-        <div class="webinar-enroll-now">
-			<h3>Enroll Now</h3>
-		</div>
-        <form onsubmit="return validateForm()">
-          <div class="webinar-form-group">
-            <label for="name">Full Name</label>
-            <input type="text" id="name" required placeholder="Your Name" />
-          </div>
-          <div class="webinar-form-group">
-            <label for="email">Email Address</label>
-            <input type="email" id="email" required placeholder="example@email.com" />
-          </div>
-          <div class="webinar-form-group">
-            <label for="number">Mobile Number</label>
-            <div class="webinar-phone-input">
-              <div class="webinar-country-code">+91</div>
-              <input type="tel" id="number" required maxlength="10" pattern="[0-9]{10}" placeholder="10-digit number" />
-            </div>
-          </div>
-          <div class="webinar-form-group">
-            <label>Captcha</label>
-            <div class="webinar-captcha-box">
-              <div class="webinar-captcha-code" id="webinar-captcha">ABC123</div>
-              <span class="webinar-refresh-captcha" onclick="generateCaptcha()">&#x21bb;</span>
-            </div>
-            <input type="text" id="captchaInput" placeholder="Enter captcha" required />
-          </div>
-          <button type="submit" class="webinar-submit-btn">Save</button>
-        </form>
-      </div>
-    </div>
+					<!-- Repeatable row -->
+					<div class="course-trainer-name">
+						<div class="webinar-heading">
+							<h3>SAP MM - Materials Management</h3>
+						</div>
+						<table class="webinar-table-main">
+							<tr class="webinar-table">
+								<th>Starts Every Month</th>
+								<th>Trainer Name</th>
+								<th>Timing</th>
+								<th>Filling Fast</th>
+							</tr>
+							<tr class="webinar-table">
+								<td>Starts Every Month</td>
+								<td>Mr. Manoj Pandey</td>
+								<td>8:00PM–10:00PM <br /><span style="color: green">Registration Open</span></td>
+								<td><button class="webinar-enroll-btn" onclick="openPopup()">ENROLL NOW</button></td>
+							</tr>
+							<tr class="webinar-table">
+								<td>Starts Every Month</td>
+								<td>Mr. Manoj Pandey</td>
+								<td>8:00PM–10:00PM <br /><span style="color: green">Registration Open</span></td>
+								<td><button class="webinar-enroll-btn" onclick="openPopup()">ENROLL NOW</button></td>
+							</tr>
+							<tr class="webinar-table">
+								<td>Starts Every Month</td>
+								<td>Mr. Manoj Pandey</td>
+								<td>8:00PM–10:00PM <br /><span style="color: green">Registration Open</span></td>
+								<td><button class="webinar-enroll-btn" onclick="openPopup()">ENROLL NOW</button></td>
+							</tr>
+							<tr class="webinar-table">
+								<td>Starts Every Month</td>
+								<td>Mr. Manoj Pandey</td>
+								<td>8:00PM–10:00PM <br /><span style="color: green">Registration Open</span></td>
+								<td><button class="webinar-enroll-btn" onclick="openPopup()">ENROLL NOW</button></td>
+							</tr>
+						</table>
+					</div>
 
-	  
+				</div>
+			</div>
+
+			<!-- POPUP -->
+			<div class="webinar-popup" id="webinar-popup">
+				<div class="webinar-popup-content">
+					<button class="webinar-close-btn" onclick="closePopup()">&times;</button>
+					<div class="webinar-enroll-now">
+						<h3>Enroll Now</h3>
+					</div>
+					<form onsubmit="return validateForm()">
+						<div class="webinar-form-group">
+							<label for="name">Full Name</label>
+							<input type="text" id="name" required placeholder="Your Name" />
+						</div>
+						<div class="webinar-form-group">
+							<label for="email">Email Address</label>
+							<input type="email" id="email" required placeholder="example@email.com" />
+						</div>
+						<div class="webinar-form-group">
+							<label for="number">Mobile Number</label>
+							<div class="webinar-phone-input">
+								<div class="webinar-country-code">+91</div>
+								<input type="tel" id="number" required maxlength="10" pattern="[0-9]{10}" placeholder="10-digit number" />
+							</div>
+						</div>
+						<div class="webinar-form-group">
+							<label>Captcha</label>
+							<div class="webinar-captcha-box">
+								<div class="webinar-captcha-code" id="webinar-captcha">ABC123</div>
+								<span class="webinar-refresh-captcha" onclick="generateCaptcha()">&#x21bb;</span>
+							</div>
+							<input type="text" id="captchaInput" placeholder="Enter captcha" required />
+						</div>
+						<button type="submit" class="webinar-submit-btn">Save</button>
+					</form>
+				</div>
+			</div>
+
+
 
 		</div>
 	</div>
@@ -1160,22 +1173,6 @@
 <!--==================================================-->
 <!-- End  webinar Section  -->
 <!--==================================================-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1228,55 +1225,55 @@
 
 
 <!-- Webinar Script -->
- 
-    <script>
-      function openPopup() {
-        generateCaptcha();
-        document.getElementById("webinar-popup").classList.add("active");
-      }
 
-      function closePopup() {
-        document.getElementById("webinar-popup").classList.remove("active");
-      }
+<script>
+	function openPopup() {
+		generateCaptcha();
+		document.getElementById("webinar-popup").classList.add("active");
+	}
 
-      function generateCaptcha() {
-        const charset = "ABCDEFGHJKLMNPQRSTUVWXYZ23456789";
-        let captcha = "";
-        for (let i = 0; i < 6; i++) {
-          captcha += charset[Math.floor(Math.random() * charset.length)];
-        }
-        const captchaElem = document.getElementById("webinar-captcha");
-        captchaElem.textContent = captcha;
-        captchaElem.setAttribute("data-code", captcha);
-      }
+	function closePopup() {
+		document.getElementById("webinar-popup").classList.remove("active");
+	}
 
-      function validateForm() {
-        const name = document.getElementById("name").value.trim();
-        const number = document.getElementById("number").value.trim();
-        const captchaInput = document.getElementById("captchaInput").value.trim();
-        const captchaCode = document.getElementById("webinar-captcha").getAttribute("data-code");
+	function generateCaptcha() {
+		const charset = "ABCDEFGHJKLMNPQRSTUVWXYZ23456789";
+		let captcha = "";
+		for (let i = 0; i < 6; i++) {
+			captcha += charset[Math.floor(Math.random() * charset.length)];
+		}
+		const captchaElem = document.getElementById("webinar-captcha");
+		captchaElem.textContent = captcha;
+		captchaElem.setAttribute("data-code", captcha);
+	}
 
-        if (!/^[a-zA-Z\s]+$/.test(name)) {
-          alert("Name must only contain letters and spaces.");
-          return false;
-        }
+	function validateForm() {
+		const name = document.getElementById("name").value.trim();
+		const number = document.getElementById("number").value.trim();
+		const captchaInput = document.getElementById("captchaInput").value.trim();
+		const captchaCode = document.getElementById("webinar-captcha").getAttribute("data-code");
 
-        if (!/^\d{10}$/.test(number)) {
-          alert("Please enter a valid 10-digit number.");
-          return false;
-        }
+		if (!/^[a-zA-Z\s]+$/.test(name)) {
+			alert("Name must only contain letters and spaces.");
+			return false;
+		}
 
-        if (captchaInput.toUpperCase() !== captchaCode) {
-          alert("Captcha incorrect.");
-          generateCaptcha();
-          return false;
-        }
+		if (!/^\d{10}$/.test(number)) {
+			alert("Please enter a valid 10-digit number.");
+			return false;
+		}
 
-        alert("Form submitted successfully!");
-        closePopup();
-        return false;
-      }
-    </script>
+		if (captchaInput.toUpperCase() !== captchaCode) {
+			alert("Captcha incorrect.");
+			generateCaptcha();
+			return false;
+		}
+
+		alert("Form submitted successfully!");
+		closePopup();
+		return false;
+	}
+</script>
 
 <!-- Webinar Script -->
 

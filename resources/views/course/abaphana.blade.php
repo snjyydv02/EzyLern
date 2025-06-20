@@ -78,7 +78,7 @@ Master SAP ABAP with Ezylern. Learn ABAP programming through practical, real-tim
 			<div class="col-lg-8">
 				<div class="single-courses-details-box wow fadeInLeft">
 					<div class="courses-details-thumb">
-						<img src="assets/images/resource/courseabapdetails_thumb.png" alt="thumb">
+						<img src="assets/images/resource/coursedetailabap_thumb.webp" alt="thumb">
 					</div>
 					<div class="courses-details-content">
 

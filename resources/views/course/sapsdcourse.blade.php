@@ -73,7 +73,7 @@
                 <div class="single-courses-details-box wow fadeInLeft">
                     <div class="courses-details-thumb">
                         <img
-                            src="assets/images/resource/coursedetailssd_thumb.jpg"
+                            src="assets/images/resource/coursedetailsd_thumb.webp"
                             alt="thumb">
                     </div>
                     <div class="courses-details-content">
@@ -107,6 +107,9 @@
                                         onclick="openCity('Reviews')">Reviews</button>
                                 </div>
                             </div>
+
+                            <!-- start course details  -->
+
                             <div id="Overview"
                                 class="w3-container city wow fadeInLeft">
                                 <div class="courses-details-text">
@@ -120,11 +123,11 @@
                                 <div class="courses-details-list wow fadeInLeft">
                                     <ul class="courses-details-title-check">
                                         <li><i
-                                                class="bi bi-check"></i><span>People who want to grow span</li>
+                                                class="bi bi-check"></i><p>People who want to grow </p></li>
                                         <li><i
-                                                class="bi bi-check"></i><span>People who are from a technical background</span></li>
+                                                class="bi bi-check"></i><p>People who are from a technical background</p></li>
                                         <li><i
-                                                class="bi bi-check"></i><span>Anyone who wants to learn SAP and is passionate</span></li>
+                                                class="bi bi-check"></i><p>Anyone who wants to learn SAP and is passionate</p></li>
                                     </ul>
                                 </div>
 
@@ -134,11 +137,11 @@
                                 <div class="courses-details-list wow fadeInLeft">
                                     <ul class="courses-details-title-check">
                                         <li><i
-                                                class="bi bi-check"></i><span>Learn step by step, even if you do not know about SAP SD</li>
+                                                class="bi bi-check"></i><p>Learn step by step, even if you do not know about SAP SD</li>
                                         <li><i
-                                                class="bi bi-check"></i><span>Prepare for SAP exams</span></li>
+                                                class="bi bi-check"></i><p>Prepare for SAP exams</p></li>
                                         <li><i
-                                                class="bi bi-check"></i><span>Increase your chances of getting hired</span></li>
+                                                class="bi bi-check"></i><p>Increase your chances of getting hired</p></li>
                                     </ul>
                                 </div>
 
@@ -148,17 +151,17 @@
                                 <div class="courses-details-list wow fadeInLeft">
                                     <ul class="courses-details-title-check">
                                         <li><i
-                                                class="bi bi-check"></i><span>Our <strong>SAP SD online course</strong> provides you with live classes with our best instructors.</li>
+                                                class="bi bi-check"></i><p>Our <strong>SAP SD online course</strong> provides you with live classes with our best instructors.</li>
                                         <li><i
-                                                class="bi bi-check"></i><span>By joining our <strong>SAP SD online course</strong>, you will get a certificate after completion.</span></li>
+                                                class="bi bi-check"></i><p>By joining our <strong>SAP SD online course</strong>, you will get a certificate after completion.</p></li>
                                         <li><i
-                                                class="bi bi-check"></i><span>You will benefit from real examples from organizations and case studies.</span></li>
+                                                class="bi bi-check"></i><p>You will benefit from real examples from organizations and case studies.</p></li>
                                         <li><i
-                                                class="bi bi-check"></i><span>Get hands-on experience with SAP systems like real jobs.</span></li>
+                                                class="bi bi-check"></i><p>Get hands-on experience with SAP systems like real jobs.</p></li>
                                         <li><i
-                                                class="bi bi-check"></i><span>Enhanced learning with fun quizzes and homework to increase skills.</span></li>
+                                                class="bi bi-check"></i><p>Enhanced learning with fun quizzes and homework to increase skills.</p></li>
                                         <li><i
-                                                class="bi bi-check"></i><span>Enjoy personalized doubt-clearing sessions with our 24/7 team support</span></li>
+                                                class="bi bi-check"></i><p>Enjoy personalized doubt-clearing sessions with our 24/7 team support</p></li>
                                     </ul>
                                 </div>
 
@@ -195,20 +198,22 @@
                                     <div class="courses-details-list wow fadeInLeft">
                                         <ul class="courses-details-title-check">
                                             <li><i
-                                                    class="bi bi-check"></i><span>People want to learn SAP and start a new job with good skills.</li>
+                                                    class="bi bi-check"></i><p>People want to learn SAP and start a new job with good skills.</p></li>
                                             <li><i
-                                                    class="bi bi-check"></i><span>People working somewhere else who now want to move to SAP. This course will teach them everything.</span></li>
+                                                    class="bi bi-check"></i><p>People working somewhere else who now want to move to SAP. This course will teach them everything.</p></li>
                                             <li><i
-                                                    class="bi bi-check"></i><span>Students studying business or management will get help to understand how companies work.</span></li>
+                                                    class="bi bi-check"></i><p>Students studying business or management will get help to understand how companies work.</p></li>
                                             <li><i
-                                                    class="bi bi-check"></i><span>People who already using SAP can learn more by adding SAP SD.</span></li>
+                                                    class="bi bi-check"></i><p>People who already using SAP can learn more by adding SAP SD.</p></li>
                                             <li><i
-                                                    class="bi bi-check"></i><span>Anyone who wants good and high-paying jobs will get major help.</span></li>
+                                                    class="bi bi-check"></i><p>Anyone who wants good and high-paying jobs will get major help.</p></li>
                                         </ul>
                                     </div>
                                 </div>
 
                             </div>
+
+                            <!-- end course details  -->
 
                             <!-- ****************************************************** -->
                             <!-- Start Curriculum Section -->
@@ -953,7 +958,7 @@
 <!-- Start Related-course Section  -->
 <!--==================================================-->
 
-<div class="our_related_course mt-5">
+<div class="our_related_course">
     <div class="container">
         <div class="row">
             <div class="section-title">
@@ -1078,7 +1083,7 @@
 <!-- Start  Certificate Section  -->
 <!--==================================================-->
 
-<div class="testimonial-section">
+<div class="certifcate-section">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6">
@@ -1747,69 +1752,62 @@
 
 <!--*********************Curriculum Javascript****************** -->
 <script>
-    document.addEventListener("DOMContentLoaded", () => {
-        const allItems = document.querySelectorAll("#lectureList li");
-        const loadMoreBtn = document.getElementById("loadMore");
-        const showLessBtn = document.getElementById("showLess");
-        let visibleCount = 10; // Default visible items
+	document.addEventListener("DOMContentLoaded", () => {
+		const allItems = document.querySelectorAll("#lectureList li");
+		const loadMoreBtn = document.getElementById("loadMore");
+		const showLessBtn = document.getElementById("showLess");
+		let visibleCount = 10;
 
-        function updateVisibleItems() {
-            allItems.forEach((li, index) => {
-                li.style.display = index < visibleCount ? "block" : "none";
-                if (index >= visibleCount) {
-                    li.classList.remove("open");
-                }
-            });
+		updateVisibleItems();
 
-            // Show Load More button only if more items are hidden
-            loadMoreBtn.style.display = visibleCount < allItems.length ? "inline-block" : "none";
+		function updateVisibleItems() {
+			allItems.forEach((li, index) => {
+				if (index < visibleCount) {
+					li.classList.add("show");
+				} else {
+					li.classList.remove("show");
+					li.classList.remove("open");
+				}
+			});
 
-            // ✅ Fix: Show Less button only if more than 10 are visible
-            showLessBtn.style.display = visibleCount > 10 ? "inline-block" : "none";
-        }
+			loadMoreBtn.style.display = visibleCount < allItems.length ? "inline-block" : "none";
+			showLessBtn.style.display = visibleCount > 10 ? "inline-block" : "none";
+		}
 
-        // Show all on Load More click
-        loadMoreBtn.addEventListener("click", () => {
-            visibleCount = allItems.length;
-            updateVisibleItems();
-        });
+		loadMoreBtn.addEventListener("click", () => {
+			visibleCount = allItems.length;
+			updateVisibleItems();
+		});
+		showLessBtn.addEventListener("click", () => {
+			document.getElementById("lectureList").scrollIntoView({
+				behavior: "smooth",
+				block: "start"
+			});
+			setTimeout(() => {
+				visibleCount = 10;
+				updateVisibleItems();
+			}, 400);
+		});
+		document.querySelectorAll(".course-accordion li").forEach(item => {
+			const header = item.querySelector("a");
 
-        // Collapse to first 10 on Show Less
-        showLessBtn.addEventListener("click", () => {
-            visibleCount = 10;
-            updateVisibleItems();
-            loadMoreBtn.scrollIntoView({
-                behavior: "smooth",
-                block: "center"
-            });
-        });
+			if (header) {
+				header.addEventListener("click", (e) => {
+					e.preventDefault();
+					const isOpen = item.classList.contains("open");
 
-        updateVisibleItems(); // Initialize
-
-        // Accordion logic
-        document.querySelectorAll(".course-accordion li").forEach(item => {
-            const header = item.querySelector("a");
-
-            if (header) {
-                header.addEventListener("click", (e) => {
-                    e.preventDefault();
-
-                    const isOpen = item.classList.contains("open");
-
-                    // Close all
-                    document.querySelectorAll(".course-accordion li").forEach(li => {
-                        li.classList.remove("open");
-                    });
-
-                    // Toggle current
-                    if (!isOpen) {
-                        item.classList.add("open");
-                    }
-                });
-            }
-        });
-    });
+					document.querySelectorAll(".course-accordion li").forEach(li => {
+						li.classList.remove("open");
+					});
+					if (!isOpen) {
+						item.classList.add("open");
+					}
+				});
+			}
+		});
+	});
 </script>
+
 <!--*********************Curriculum Javascript****************** -->
 
 

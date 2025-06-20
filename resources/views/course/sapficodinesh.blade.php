@@ -77,7 +77,7 @@
             <div class="col-lg-8">
                 <div class="single-courses-details-box wow fadeInLeft">
                     <div class="courses-details-thumb">
-                        <img src="assets/images/resource/coursedetailsficoone_thumb.png" alt="thumb">
+                        <img src="assets/images/resource/coursedetailficoonhana_thumb.webp" alt="thumb">
                     </div>
                     <div class="courses-details-content">
 
@@ -99,6 +99,8 @@
                                     <button class="w3-bar-item w3-button" onclick="openCity('Reviews')">Reviews</button>
                                 </div>
                             </div>
+
+                            
                             <div id="Overview" class="w3-container city wow fadeInLeft">
                                 <div class="courses-details-text">
                                     <h3>Course Description</h3>
@@ -128,6 +130,8 @@
                                     <img src="assets/images/resource/fico_certification.webp" alt="">
                                 </div>
                             </div>
+
+
                             <div id="Curriculum" class="w3-container city" style="display:none">
                                 <div class="tab">
                                     <div class="tab_content">

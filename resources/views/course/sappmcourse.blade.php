@@ -73,7 +73,7 @@
                 <div class="single-courses-details-box wow fadeInLeft">
                     <div class="courses-details-thumb">
                         <img
-                            src="assets/images/resource/coursedetailspm_thumb.webp"
+                            src="assets/images/resource/coursedetailpm_thumb.webp"
                             alt="thumb">
                     </div>
                     <div class="courses-details-content">

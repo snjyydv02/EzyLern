@@ -2016,10 +2016,10 @@ p.case {
 button.w3-bar-item.w3-button {
     margin: 0 12px 0;
 }
-
+/* 
 .courses-details-list ul li i {
     display: none !important;
-}
+} */
 
 .blog-list-title a {
     font-size: 25px;
@@ -3255,10 +3255,6 @@ p.case {
 button.w3-bar-item.w3-button {
     font-size: 16px;
     margin: 0 26px 35px;
-}
-
-.courses-details-list ul li i {
-    display: none !important;
 }
 
 .price-button a {

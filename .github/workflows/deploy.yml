@@ -14,11 +14,11 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Deploy via SSH
-      uses: appleboy/ssh-action@v1.0.0
+      uses: appleboy/ssh-action@v0.1.10
       with:
-        host: ezylern.com              # 🔁 apna domain ya IP daalo
-        username: ezylerngetukuhdf    # 🔁 CPanel username
-        key: ${{ secrets.CPANEL_SSH_KEY }}
+        host: ${{ secrets.ezylern.com }}
+        username: ${{ secrets.ezylerngetukuhdf }}
+        key: ${{ secrets.id_rsa }}
         port: 22
         script: |
           cd public_html

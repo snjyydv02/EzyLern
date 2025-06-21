@@ -3,7 +3,7 @@ name: 🚀 Auto Deploy to CPanel via SSH
 on:
   push:
     branches:
-     - EzyLernTeam
+      - EzyLernTeam
 
 jobs:
   deploy:
@@ -16,9 +16,9 @@ jobs:
     - name: Deploy via SSH
       uses: appleboy/ssh-action@v0.1.10
       with:
-        host: ${{ secrets.ezylern.com }}
-        username: ${{ secrets.ezylerngetukuhdf }}
-        key: ${{ secrets.id_rsa }}
+        host: ${{ secrets.EZYLERN_HOST }}
+        username: ${{ secrets.EZYLERN_USERNAME }}
+        key: ${{ secrets.EZYLERN_PRIVATE_KEY }}
         port: 22
         script: |
           cd public_html

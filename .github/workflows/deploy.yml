@@ -3,7 +3,7 @@ name: 🚀 Auto Deploy to CPanel via SSH
 on:
   push:
     branches:
-      - main
+     - EzyLernTeam
 
 jobs:
   deploy:

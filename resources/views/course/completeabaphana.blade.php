@@ -1221,7 +1221,7 @@ Master SAP ABAP with Ezylern. Learn ABAP programming through practical, real-tim
 							<div class="testi-people">
 							</div>
 							<div class="testi-people-name">
-								<p>Kuldeep Kulkarni</p>
+								<p>Aarav Mehta</p>
 								<div class="testi-star-icon">
 									<p><i class="bi bi-star-fill"></i></p>
 									<p><i class="bi bi-star-fill"></i></p>
@@ -1245,7 +1245,7 @@ Master SAP ABAP with Ezylern. Learn ABAP programming through practical, real-tim
 							<div class="testi-people">
 							</div>
 							<div class="testi-people-name">
-								<p>Amrita Naidu</p>
+								<p>Sneha Kapoor</p>
 								<div class="testi-star-icon">
 									<p><i class="bi bi-star-fill"></i></p>
 									<p><i class="bi bi-star-fill"></i></p>
@@ -1269,7 +1269,7 @@ Master SAP ABAP with Ezylern. Learn ABAP programming through practical, real-tim
 							<div class="testi-people">
 							</div>
 							<div class="testi-people-name">
-								<p>Harshita K</p>
+								<p>Rohan Sharma</p>
 								<div class="testi-star-icon">
 									<p><i class="bi bi-star-fill"></i></p>
 									<p><i class="bi bi-star-fill"></i></p>
@@ -1293,7 +1293,7 @@ Master SAP ABAP with Ezylern. Learn ABAP programming through practical, real-tim
 							<div class="testi-people">
 							</div>
 							<div class="testi-people-name">
-								<p>Shweta Mehta</p>
+								<p>Priya Desai</p>
 								<div class="testi-star-icon">
 									<p><i class="bi bi-star-fill"></i></p>
 									<p><i class="bi bi-star-fill"></i></p>
@@ -1317,7 +1317,7 @@ Master SAP ABAP with Ezylern. Learn ABAP programming through practical, real-tim
 							<div class="testi-people">
 							</div>
 							<div class="testi-people-name">
-								<p>Manoj Agrawal</p>
+								<p>Nikhil Verma</p>
 								<div class="testi-star-icon">
 									<p><i class="bi bi-star-fill"></i></p>
 									<p><i class="bi bi-star-fill"></i></p>

@@ -977,40 +977,351 @@
 <!-- Start  Sap-Course Section  -->
 <!--==================================================-->
 
-<!-- <div class="sap-course-section">
+<div class="sap-course-section">
 	<div class="container">
 		<div class="row">
-			<div class="sap-course-heading">
-				<h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, debitis!</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas cum libero error accusamus autem consequuntur adipisci officia fugiat officiis voluptatem ipsa enim ab, delectus placeat ad nesciunt quas, culpa tempore.</p>
+			<div class="courses-details-text">
+				<h2>SAP Course Online</h2>
+				<p>
+					Do you want to master SAP with Ezylern, which powers global businesses? <br>
+					SAP is the world’s leading ERP software, used by top companies to manage everything from finances and human resources to logistics and supply chain management. Our SAP online course is perfect for everyone to enhance their confidence and skills. Whether you are a beginner or a working professional, Ezylern’s SAP online courses are designed to help you get job-ready fast.
+					<br>
+					If you're searching for the best online SAP courses that blend hands-on practice with knowledge related to the industry, this program is perfect.
+				</p>
 			</div>
-
-			<div class="brand-links">
-				<a href="#">SAP RAP</a>
-				<a href="#">SAP MM</a>
-				<a href="#">SAP FICO</a>
-				<a href="#">ABAP on HANA</a>
-				<a href="#">Complete ABAP</a>
-				<a href="#">SAP PP</a>
-				<a href="#">SAP SD</a>
-				<a href="#">SAP FICO S4HANA</a>
+			<div class="courses-details-text wow fadeInLeft">
+				<h2>Why should you learn SAP?</h2>
+				<p>We offer industry-relevant SAP training across key modules and technologies. Each course is taught in simple language, incorporating real-time projects and providing certification support.
+				</p>
 			</div>
+			<div class="courses-details-list wow fadeInRight">
+				<ul class="courses-details-title-check">
+					<li><i
+							class="bi bi-check"></i>
+						<p>SAP is used by 400,000 companies worldwide.
+					</li>
+					<li><i
+							class="bi bi-check"></i>
+						<p>High demand for SAP consultants and developers.</p>
+					</li>
+					<li><i
+							class="bi bi-check"></i>
+						<p>Boost your career opportunities and salary potential.</p>
+					</li>
+					<li><i
+							class="bi bi-check"></i>
+						<p>Work in top industries like IT, manufacturing, banking, and healthcare.</p>
+					</li>
+				</ul>
+			</div>
+			<div class="courses-feature-text  wow fadeInRight">
+				<h2>Modules covered in our online SAP course</h2>
+				<p>We offer in-depth and practical modules that cover both functional and technical SAP domains.</p>
+			</div>
+			<div class="courses-details-list wow fadeInLeft">
+				<ul class="courses-details-advantage-check">
+					<li><i class="bi bi-check"></i>
+						<h3 class="course-details-advantage-check-heading">Complete ABAP Course</h3>
+					</li>
+					<p class="course-details-advantage-check-text">Learn the core programming language of SAP, from basic syntax to creating smart forms and reports, and you will become job-ready for technical SAP roles. If you want to work as a technical consultant or SAP developer, ABAP is your gateway to the SAP world.</p>
+				</ul>
+				<ul class="courses-details-advantage-check">
+					<li><i class="bi bi-check"></i>
+						<h3 class="course-details-advantage-check-heading">SAP MM Course</h3>
+					</li>
+					<p class="course-details-advantage-check-text">SAP MM helps companies manage the buying and storing of materials. This lecture covers everything from procurement to invoice certification, making it super easy for professionals who want to work in supply chain, warehouse, or purchase departments.</p>
+				</ul>
+				<ul class="courses-details-advantage-check">
+					<li><i class="bi bi-check"></i>
+						<h3 class="course-details-advantage-check-heading">SAP SD Course</h3>
+					</li>
+					<p class="course-details-advantage-check-text">SAP SD focuses on managing the sales process in a company. This lecture is ideal for those interested in sales operations, customer service, or order processing, and it integrates with other modules.</p>
+				</ul>
+				<ul class="courses-details-advantage-check">
+					<li><i class="bi bi-check"></i>
+						<h3 class="course-details-advantage-check-heading">SAP FICO Course</h3>
+					</li>
+					<p class="course-details-advantage-check-text">SAP FICO is one of the most widely used modules, helping companies manage their money and accounting. It is best for finance professionals and accountants who want to gain skills and improve their confidence</p>
+				</ul>
+				<ul class="courses-details-advantage-check">
+					<li><i class="bi bi-check"></i>
+						<h3 class="course-details-advantage-check-heading">SAP PP Course</h3>
+					</li>
+					<p class="course-details-advantage-check-text">SAP PP deals with planning and controlling the production process in factories. This lecture is best suited for professionals in the manufacturing, operations, or production departments.p>
+				</ul>
+				<ul class="courses-details-advantage-check">
+					<li><i class="bi bi-check"></i>
+						<h3 class="course-details-advantage-check-heading">SAP PM Course </h3>
+					</li>
+					<p class="course-details-advantage-check-text">SAP PM is used to take care of machines and equipment in a company. It helps in planning and managing repairs to minimize downtime. This module is best for maintenance engineers and managers.</p>
+				</ul>
+				<ul class="courses-details-advantage-check">
+					<li><i class="bi bi-check"></i>
+						<h3 class="course-details-advantage-check-heading">SAP RAP Course</h3>
+					</li>
+					<p class="course-details-advantage-check-text">It is a latest programming tool used to build applications using simple coding. It allows developers to create scalable, secure, and Fiori-enabled applications. It is best for developers.</p>
+				</ul>
+			</div>
+			<div class="courses-feature-text  wow fadeInRight">
+				<h2>Key features of our SAP online courses</h2>
+				<p>The course is for anyone who wants to learn how to build software, even if you are new to it. It is perfect for freshers, students, or anyone who wants to work with big companies.</p>
+			</div>
+			<div class="courses-details-list wow fadeInRight">
+				<ul class="courses-details-title-check">
+					<li><i
+							class="bi bi-check"></i>
+						<p>Beginner to advanced level courses.
+					</li>
+					<li><i
+							class="bi bi-check"></i>
+						<p>Expert trainers with real-time experience.</p>
+					</li>
+					<li><i
+							class="bi bi-check"></i>
+						<p>Project-based learning. </p>
+					</li>
+					<li><i
+							class="bi bi-check"></i>
+						<p>Flexible learning, online and recorded classes.</p>
+					</li>
+					<li><i
+							class="bi bi-check"></i>
+						<p>Certification support and job assistance.</p>
+					</li>
+				</ul>
+			</div>
+			<div class="courses-feature-text  wow fadeInRight">
+				<p>Whether you're searching for the best SAP course online or a SAP online course with hands-on training, Ezylern ensures your learning is complete and career-focused.</p>
+			</div>
+			<div class="courses-feature-text  wow fadeInRight">
+				<h2>Course Duration, Fees & Enrollment Process</h2>
+				<p>We've made it easy to get going. A summary of what you should know is provided below:</p>
+				<p><strong>Course Duration:</strong></p>
+			</div>
+			<div class="courses-details-list wow fadeInRight">
+				<ul class="courses-details-title-check">
+					<li><i
+							class="bi bi-check"></i>
+						<p><strong>SAP FICO</strong> – 6 to 8 weeks
+					</li>
+					<li><i
+							class="bi bi-check"></i>
+						<p><strong>SAP MM</strong> – 5 to 6 weeks
+					</li>
+					<li><i
+							class="bi bi-check"></i>
+						<p><strong>SAP SD</strong> – 5 to 6 weeks
+					</li>
+					<li><i
+							class="bi bi-check"></i>
+						<p><strong>SAP ABAP</strong> – 7 to 8 weeks
+					</li>
+					<li><i
+							class="bi bi-check"></i>
+						<p><strong>SAP PP</strong> – 6 weeks
+					</li>
+					<li><i
+							class="bi bi-check"></i>
+						<p><strong>SAP RAP</strong> –
+					</li>
+					<li><i
+							class="bi bi-check"></i>
+						<p><strong>SAP PM</strong> –
+					</li>
 
-			<div class="product-title">Lorem ipsum dolor sit amet?</div>
-
-			<div class="product-description">
-				<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita alias corrupti porro inventore. Libero maxime illum consequuntur, corrupti corporis numquam optio?</p>
-				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque velit officiis sit! Veniam praesentium aliquid quos blanditiis quaerat hic fugiat iure optio impedit maiores.</p>
-				<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa sapiente iste id eos dolorem quod, harum ratione obcaecati quidem quam, tempore dolorum temporibus molestiae recusandae sit!</p>
+				</ul>
+			</div>
+			<div class="courses-details-text wow fadeInLeft">
+				<h2> SAP Course Fees and Payment Options:</h2>
+			</div>
+			<div class="courses-details-list wow fadeInRight">
+				<ul class="courses-details-title-check">
+					<li><i
+							class="bi bi-check"></i>
+						<p>Starting from ₹18,000 per module
+					</li>
+					<li><i
+							class="bi bi-check"></i>
+						<p>Installment options available</p>
+					</li>
+					<li><i
+							class="bi bi-check"></i>
+						<p>Discounts on combo course packs (for example, SAP FICO + MM)</p>
+					</li>
+				</ul>
+			</div>
+			<div class="courses-details-text wow fadeInLeft">
+				<h2>How to Enroll in the SAP Online Course:</h2>
+			</div>
+			<div class="courses-details-list wow fadeInRight">
+				<ul class="courses-details-title-check">
+					<li><i
+							class="bi bi-check"></i>
+						<p>Book a Free Demo Class
+					</li>
+					<li><i
+							class="bi bi-check"></i>
+						<p>Speak with our SAP course advisor</p>
+					</li>
+					<li><i
+							class="bi bi-check"></i>
+						<p>Choose your schedule and start learning immediately</p>
+					</li>
+				</ul>
+			</div>
+			<div class="courses-details-text wow fadeInLeft">
+				<h2>Take the first step towards a high-paying career</h2>
+				<p>Whether you are aiming to become a SAP consultant, a developer, or a business analyst, Ezylern’s SAP online courses will help you gain the skills, confidence, and certification to succeed. <br>
+					Enroll today, start learning and earning. Have questions? Chat with our course advisors now.
+				</p>
 			</div>
 		</div>
 	</div>
-</div> -->
+</div>
+</div>
 
 <!--==================================================-->
 <!-- End   Sap-Course  Section  -->
 <!--==================================================-->
 
+
+
+<!--==================================================-->
+<!-- FAQ Section  -->
+<!--==================================================-->
+
+<div class="course-faq-section up">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 text-center">
+				<div class="course-faq-section-title center-title wow fadeInLeft">
+					<h2>Frequently Asked Questions</h2>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-lg-12">
+				<div id="Home" class="tabcontent">
+					<div class="row">
+						<div class="col-lg-6 col-md-6">
+							<div id="tab1" class="course-faq-tab_content">
+								<ul class="course-faq-accordion wow fadeInLeft">
+									<li>
+										<h3>How much does the SAP course cost?</h3>
+										<p>The course fee ranges from 20,000 to 75,000. It depends on the module and duration </p>
+									</li>
+									<li>
+										<h3>Who can enroll in your online SAP course?</h3>
+										<p>Anyone can join the course fresher, a student, or a working professional. No technical background is required.</p>
+									</li>
+									<li>
+										<h3>Is the SAP course online certificate recognized? </h3>
+										<p>Yes, our certificate is widely accepted by companies. It adds value to your resume.</p>
+									</li>
+									<li>
+										<h3>What is the duration of your SAP online course?</h3>
+										<p>The course takes 1 to 3 months to complete. You can choose fast-track or weekend batches</p>
+									</li>
+								</ul>
+							</div>
+						</div>
+						<div class="col-lg-6 col-md-6">
+							<div id="tab2" class="course-faq-tab_content">
+								<ul class="course-faq-accordion wow fadeInRight">
+									<li>
+										<h3> Are there any discounts or promotional offers?</h3>
+										<p>Yes, we offer special discounts and festive offers. Contact us to know the current deals.</p>
+									</li>
+									<li>
+										<h3>How do I make a payment for the SAP course online?</h3>
+										<p>You can pay using UPI, debit/credit card, or net banking. EMI options are also available.</p>
+									</li>
+									<li>
+										<h3>What is the average salary after completing an SAP course?</h3>
+										<p>Freshers earn around 3.5 to 6 LPA, and experienced professionals can get 8-25 LPA. It depends on the role and skills.</p>
+									</li>
+									<li>
+										<h3>Will I get hands-on experience or just theory?</h3>
+										<p>Yes, you will get real-time SAP system access. We focus on both theory and practical training.</p>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<!--==================================================-->
+<!-- End FAQ Section  -->
+<!--==================================================-->
+
+
+
+
+
+<!--*********************Start FAQ Script****************** -->
+
+
+<script>
+	document.addEventListener("DOMContentLoaded", () => {
+		const headers = document.querySelectorAll(".course-faq-accordion h3");
+
+		function closeAllParagraphs() {
+			document.querySelectorAll(".course-faq-accordion h3").forEach(h => h.classList.remove("active"));
+			document.querySelectorAll(".course-faq-accordion p").forEach(p => {
+				p.classList.remove("show");
+				p.style.maxHeight = null;
+			});
+		}
+
+		headers.forEach(header => {
+			header.addEventListener("click", () => {
+				const isActive = header.classList.contains("active");
+				const content = header.nextElementSibling;
+
+				// Close all first
+				closeAllParagraphs();
+
+				if (!isActive) {
+					header.classList.add("active");
+					content.classList.add("show");
+
+					// Get scrollHeight and set maxHeight to enable smooth transition
+					const fullHeight = content.scrollHeight + "px";
+					content.style.maxHeight = fullHeight;
+				}
+			});
+		});
+
+		// Optional: Equal height for all h3 based on tallest one
+		function setEqualHeadingHeight() {
+			let maxHeight = 0;
+
+			headers.forEach(h => {
+				h.style.height = 'auto'; // Reset first
+				const height = h.scrollHeight;
+				if (height > maxHeight) maxHeight = height;
+			});
+
+			headers.forEach(h => h.style.height = maxHeight + "px");
+		}
+
+		setEqualHeadingHeight();
+
+		window.addEventListener("resize", () => {
+			clearTimeout(window.resizeTimeout);
+			window.resizeTimeout = setTimeout(setEqualHeadingHeight, 100);
+		});
+	});
+</script>
+
+
+<!--*********************End FAQ Script****************** -->
 
 
 @endsection

@@ -7085,15 +7085,6 @@ animation: fadeSlideIn 0.8s ease forwards;
     width: 100% !important;
 
 }
-/* .course-details-advantage-check-text{
-        font-size: 16px !important;
-    line-height: 27px !important;
-    color: #555555 !important;
-    font-weight: 400 !important;
-    margin-top: -1rem;
-    width: 100% !important;
-
-} */
 .courses-details-title-check li {
   list-style: none;
   opacity: 0;
@@ -10376,116 +10367,15 @@ box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
   background: url(../images/resource/testimonial-bg.png) no-repeat center center/cover;
 }
 
-.sap-course-heading h2 {
-  font-size: 28px;
-  color: #232323;
-  font-weight: 600;
-  margin-bottom: 10px;
-  transition: all 0.3s ease;
+.course-details-advantage-check-heading{
+        font-size: 18px !important;
+    line-height: 27px !important;
+    color: #555555 !important;
+    font-weight: 500 !important;
+    width: 100% !important;
+    margin: 0px;
 }
 
-.sap-course-heading h2:hover {
-  color: #806cff;
-  transform: translateY(-3px);
-}
-
-.sap-course-heading p {
-  font-size: 16px;
-  color: rgb(85, 85, 85);
-  font-weight: 400;
-  padding: 15px 0;
-  line-height: 1.6;
-}
-
-.brand-links {
-  margin: 20px 0;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-}
-
-.brand-links a {
-  background-color: #fff;
-  color: #806cff;
-  text-decoration: none;
-  padding: 8px 14px;
-  border-radius: 20px;
-  font-size: 14px;
-  transition: all 0.3s ease;
-}
-
-.brand-links a:hover {
-  background-color: #806cff;
-  color: #fff;
-  transform: scale(1.05);
-}
-
-.product-title {
-  font-size: 22px;
-  color: #232323;
-  font-weight: 600;
-  margin-top: 30px;
-  position: relative;
-  display: inline-block;
-  padding-bottom: 5px;
-}
-
-.product-title::after {
-  content: "";
-  width: 50px;
-  height: 3px;
-  background-color: #806cff;
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  border-radius: 5px;
-}
-
-.product-description {
-  background: #ffffff;
-  padding: 25px;
-  margin: 25px 0;
-  border-radius: 8px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
-  transition: box-shadow 0.3s ease;
-}
-
-.product-description:hover {
-  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
-}
-
-.product-description p {
-  color: #444;
-  margin-bottom: 15px;
-  line-height: 1.7;
-}
-
-.product-description a {
-  color: #806cff;
-  text-decoration: none;
-  transition: color 0.3s ease;
-}
-
-.product-description a:hover {
-  color: #806cff;
-  text-decoration: underline;
-}
-
-@media (max-width: 768px) {
-  .sap-course-section {
-    padding: 60px 15px;
-  }
-
-  .brand-links {
-    flex-direction: column;
-    gap: 8px;
-  }
-
-  .brand-links a {
-    display: block;
-    width: fit-content;
-  }
-}
 
 
 /* <!--==================================================-->
